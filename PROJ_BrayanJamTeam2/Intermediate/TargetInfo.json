@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "PROJ_BrayanJamTeam2",
+			"Path": "C:\\Academico\\REPO_BrayanJam\\PROJ_BrayanJamTeam2\\Source\\PROJ_BrayanJamTeam2.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "PROJ_BrayanJamTeam2Editor",
+			"Path": "C:\\Academico\\REPO_BrayanJam\\PROJ_BrayanJamTeam2\\Source\\PROJ_BrayanJamTeam2Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

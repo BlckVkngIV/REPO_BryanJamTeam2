@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-PROJ_BrayanJamTeam2.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Academico\REPO_BrayanJam\PROJ_BrayanJamTeam2\Intermediate\Build\Win64\x64\PROJ_BrayanJamTeam2Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h.obj"
+"C:\Academico\REPO_BrayanJam\PROJ_BrayanJamTeam2\Intermediate\Build\Win64\x64\UnrealEditor\Development\PROJ_BrayanJamTeam2\PROJ_BrayanJamTeam2.init.gen.cpp.obj"
+"C:\Academico\REPO_BrayanJam\PROJ_BrayanJamTeam2\Intermediate\Build\Win64\x64\UnrealEditor\Development\PROJ_BrayanJamTeam2\PROJ_BrayanJamTeam2GameModeBase.gen.cpp.obj"
+"C:\Academico\REPO_BrayanJam\PROJ_BrayanJamTeam2\Intermediate\Build\Win64\x64\UnrealEditor\Development\PROJ_BrayanJamTeam2\PROJ_BrayanJamTeam2.cpp.obj"
+"C:\Academico\REPO_BrayanJam\PROJ_BrayanJamTeam2\Intermediate\Build\Win64\x64\UnrealEditor\Development\PROJ_BrayanJamTeam2\PROJ_BrayanJamTeam2GameModeBase.cpp.obj"
+"C:\Academico\REPO_BrayanJam\PROJ_BrayanJamTeam2\Intermediate\Build\Win64\x64\UnrealEditor\Development\PROJ_BrayanJamTeam2\Default.rc2.res"
+/OUT:"C:\Academico\REPO_BrayanJam\PROJ_BrayanJamTeam2\Intermediate\Build\Win64\x64\UnrealEditor\Development\PROJ_BrayanJamTeam2\UnrealEditor-PROJ_BrayanJamTeam2.lib"
