@@ -4,3 +4,4 @@
 #include "Modules/ModuleManager.h"
 
 IMPLEMENT_PRIMARY_GAME_MODULE( FDefaultGameModuleImpl, PROJ_BrayanJamTeam2, "PROJ_BrayanJamTeam2" );
+ 

@@ -17,6 +17,9 @@
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
     </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
     <None Include="..\..\Config\DefaultEngine.ini">
       <Filter>Config</Filter>
     </None>
@@ -38,10 +41,34 @@
     <ClInclude Include="..\..\Source\PROJ_BrayanJamTeam2\PROJ_BrayanJamTeam2.h">
       <Filter>Source\PROJ_BrayanJamTeam2</Filter>
     </ClInclude>
-    <ClCompile Include="..\..\Source\PROJ_BrayanJamTeam2\PROJ_BrayanJamTeam2GameModeBase.cpp">
+    <ClCompile Include="..\..\Source\PROJ_BrayanJamTeam2\PROJ_BrayanJamTeam2Character.cpp">
       <Filter>Source\PROJ_BrayanJamTeam2</Filter>
     </ClCompile>
-    <ClInclude Include="..\..\Source\PROJ_BrayanJamTeam2\PROJ_BrayanJamTeam2GameModeBase.h">
+    <ClInclude Include="..\..\Source\PROJ_BrayanJamTeam2\PROJ_BrayanJamTeam2Character.h">
+      <Filter>Source\PROJ_BrayanJamTeam2</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PROJ_BrayanJamTeam2\PROJ_BrayanJamTeam2GameMode.cpp">
+      <Filter>Source\PROJ_BrayanJamTeam2</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PROJ_BrayanJamTeam2\PROJ_BrayanJamTeam2GameMode.h">
+      <Filter>Source\PROJ_BrayanJamTeam2</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PROJ_BrayanJamTeam2\PROJ_BrayanJamTeam2Projectile.cpp">
+      <Filter>Source\PROJ_BrayanJamTeam2</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PROJ_BrayanJamTeam2\PROJ_BrayanJamTeam2Projectile.h">
+      <Filter>Source\PROJ_BrayanJamTeam2</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PROJ_BrayanJamTeam2\TP_PickUpComponent.cpp">
+      <Filter>Source\PROJ_BrayanJamTeam2</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PROJ_BrayanJamTeam2\TP_PickUpComponent.h">
+      <Filter>Source\PROJ_BrayanJamTeam2</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PROJ_BrayanJamTeam2\TP_WeaponComponent.cpp">
+      <Filter>Source\PROJ_BrayanJamTeam2</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PROJ_BrayanJamTeam2\TP_WeaponComponent.h">
       <Filter>Source\PROJ_BrayanJamTeam2</Filter>
     </ClInclude>
   </ItemGroup>

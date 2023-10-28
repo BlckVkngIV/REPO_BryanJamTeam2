@@ -5,7 +5,7 @@ using System.Collections.Generic;
 
 public class PROJ_BrayanJamTeam2EditorTarget : TargetRules
 {
-	public PROJ_BrayanJamTeam2EditorTarget( TargetInfo Target) : base(Target)
+	public PROJ_BrayanJamTeam2EditorTarget(TargetInfo Target) : base(Target)
 	{
 		Type = TargetType.Editor;
 		DefaultBuildSettings = BuildSettingsVersion.V2;

@@ -5,7 +5,7 @@ using System.Collections.Generic;
 
 public class PROJ_BrayanJamTeam2Target : TargetRules
 {
-	public PROJ_BrayanJamTeam2Target( TargetInfo Target) : base(Target)
+	public PROJ_BrayanJamTeam2Target(TargetInfo Target) : base(Target)
 	{
 		Type = TargetType.Game;
 		DefaultBuildSettings = BuildSettingsVersion.V2;
