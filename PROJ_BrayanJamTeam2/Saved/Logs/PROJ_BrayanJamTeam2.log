@@ -2246,3 +2246,398 @@ Make sure 'BP_PlayerController_C' has been compiled for  Begin Slide
 [2023.11.08-00.08.54:327][620]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
 [2023.11.08-00.08.54:327][620]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
 [2023.11.08-00.08.54:342][622]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2023.11.08-00.13.25:525][354]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.11.08-00.13.25:650][354]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/_Developers/MiguelMata/FirstPersonArms/Animations/FP_Falling.FP_Falling
+[2023.11.08-00.13.25:658][354]LogAnimationCompression: Display: Storing compressed animation data for /Game/_Developers/MiguelMata/FirstPersonArms/Animations/FP_Falling.FP_Falling, at AnimationSequence/ce42cb345313b3cea08f362d2b5805976cb6dcb5
+[2023.11.08-00.13.25:662][354]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/_Developers/MiguelMata/FirstPersonArms/Animations/FP_Idle.FP_Idle
+[2023.11.08-00.13.25:672][354]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/_Developers/MiguelMata/FirstPersonArms/Animations/FP_Jump.FP_Jump
+[2023.11.08-00.13.25:675][354]LogAnimationCompression: Display: Storing compressed animation data for /Game/_Developers/MiguelMata/FirstPersonArms/Animations/FP_Jump.FP_Jump, at AnimationSequence/9b45a57a0973074e5a9d31d93cdf03839397bfcc
+[2023.11.08-00.13.25:680][354]LogAnimationCompression: Display: Storing compressed animation data for /Game/_Developers/MiguelMata/FirstPersonArms/Animations/FP_Idle.FP_Idle, at AnimationSequence/ffab9dcb548641e00c2d8ed4eda997eed21f09fb
+[2023.11.08-00.13.25:684][354]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/_Developers/MiguelMata/FirstPersonArms/Animations/FP_Walk_Fwd.FP_Walk_Fwd
+[2023.11.08-00.13.25:691][354]LogAnimationCompression: Display: Storing compressed animation data for /Game/_Developers/MiguelMata/FirstPersonArms/Animations/FP_Walk_Fwd.FP_Walk_Fwd, at AnimationSequence/9177db18efdce457a58fa381d588a3c079450145
+[2023.11.08-00.13.25:694][354]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/_Developers/MiguelMata/FirstPersonArms/Animations/FP_Rifle_Fire.FP_Rifle_Fire
+[2023.11.08-00.13.25:700][354]LogAnimationCompression: Display: Storing compressed animation data for /Game/_Developers/MiguelMata/FirstPersonArms/Animations/FP_Rifle_Fire.FP_Rifle_Fire, at AnimationSequence/e5361ab442e918e81834c8a1b31cdccb2e75c89f
+[2023.11.08-00.13.25:704][354]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/_Developers/MiguelMata/FirstPersonArms/Animations/FP_Rifle_Idle.FP_Rifle_Idle
+[2023.11.08-00.13.25:714][354]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/_Developers/MiguelMata/FirstPersonArms/Animations/FP_Land.FP_Land
+[2023.11.08-00.13.25:717][354]LogAnimationCompression: Display: Storing compressed animation data for /Game/_Developers/MiguelMata/FirstPersonArms/Animations/FP_Land.FP_Land, at AnimationSequence/376892901b6e609a20ee7f9003fbcbb69f67b9c6
+[2023.11.08-00.13.25:725][354]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/_Developers/MiguelMata/FirstPersonArms/Animations/FP_Rifle_Falling.FP_Rifle_Falling
+[2023.11.08-00.13.25:739][354]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/_Developers/MiguelMata/FirstPersonArms/Animations/FP_Rifle_Jump.FP_Rifle_Jump
+[2023.11.08-00.13.25:746][354]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/_Developers/MiguelMata/FirstPersonArms/Animations/FP_Rifle_Land.FP_Rifle_Land
+[2023.11.08-00.13.25:747][354]LogAnimationCompression: Display: Storing compressed animation data for /Game/_Developers/MiguelMata/FirstPersonArms/Animations/FP_Rifle_Falling.FP_Rifle_Falling, at AnimationSequence/61b90d89fbabad4538b99327ef65ef9496a516d2
+[2023.11.08-00.13.25:749][354]LogAnimationCompression: Display: Storing compressed animation data for /Game/_Developers/MiguelMata/FirstPersonArms/Animations/FP_Rifle_Idle.FP_Rifle_Idle, at AnimationSequence/42f6476a7e5f9bd0d32e1c7f7d45ba69bde5e292
+[2023.11.08-00.13.25:754][354]LogAnimationCompression: Display: Storing compressed animation data for /Game/_Developers/MiguelMata/FirstPersonArms/Animations/FP_Rifle_Jump.FP_Rifle_Jump, at AnimationSequence/160301040600fa82f7291108ac46c8880407bedd
+[2023.11.08-00.13.25:756][354]LogAnimationCompression: Display: Storing compressed animation data for /Game/_Developers/MiguelMata/FirstPersonArms/Animations/FP_Rifle_Land.FP_Rifle_Land, at AnimationSequence/9149510da15d93152d1c510b4dd02f109c187f49
+[2023.11.08-00.13.25:757][354]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/_Developers/MiguelMata/FirstPersonArms/Animations/FP_Rifle_Run.FP_Rifle_Run
+[2023.11.08-00.13.25:770][354]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/_Developers/MiguelMata/FirstPersonArms/Animations/FP_Run_Fwd.FP_Run_Fwd
+[2023.11.08-00.13.25:772][354]LogAnimationCompression: Display: Storing compressed animation data for /Game/_Developers/MiguelMata/FirstPersonArms/Animations/FP_Rifle_Run.FP_Rifle_Run, at AnimationSequence/2bb6217e1b23dae70ec1f3334e3cebb77d3e06eb
+[2023.11.08-00.13.25:775][354]LogAnimationCompression: Display: Storing compressed animation data for /Game/_Developers/MiguelMata/FirstPersonArms/Animations/FP_Run_Fwd.FP_Run_Fwd, at AnimationSequence/483b5740df676da2171fbff9c26f8f9753288d8d
+[2023.11.08-00.13.25:858][354]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2023.11.08-00.13.38:907][354]LogSlate: Window 'Delete Assets' being destroyed
+[2023.11.08-00.13.42:990][759]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2023.11.08-00.13.45:085][759]LogSlate: Window 'Save Content' being destroyed
+[2023.11.08-00.13.45:093][759]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.08-00.13.45:138][759]LogSavePackage: Moving output files for package: /Game/_Developers/MiguelMata/FirstPerson/Blueprints/BP_FirstPersonGameMode
+[2023.11.08-00.13.45:138][759]LogSavePackage: Moving '../../../../GitHub/REPO_BryanJamTeam2/PROJ_BrayanJamTeam2/Saved/BP_FirstPersonGameMode72ED1F8B4E3B5EC02609DF9D632B14C1.tmp' to '../../../../GitHub/REPO_BryanJamTeam2/PROJ_BrayanJamTeam2/Content/_Developers/MiguelMata/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset'
+[2023.11.08-00.13.45:146][759]LogFileHelpers: InternalPromptForCheckoutAndSave took 53 ms (total: 1.00 sec)
+[2023.11.08-00.13.45:147][759]LogAssetEditorSubsystem: Opening Asset editor for World /Game/_Developers/MiguelMata/TestGround/LevelTest.LevelTest
+[2023.11.08-00.13.45:147][759]Cmd: MAP LOAD FILE="../../../../GitHub/REPO_BryanJamTeam2/PROJ_BrayanJamTeam2/Content/_Developers/MiguelMata/TestGround/LevelTest.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.11.08-00.13.45:147][759]LightingResults: New page: Lighting Build
+[2023.11.08-00.13.45:147][759]LoadErrors: New page: Loading map: LevelTest.umap
+[2023.11.08-00.13.45:179][759]LogWorld: UWorld::CleanupWorld for LevelTest, bSessionEnded=true, bCleanupResources=true
+[2023.11.08-00.13.45:179][759]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.08-00.13.45:180][759]MapCheck: New page: Map Check
+[2023.11.08-00.13.45:180][759]LightingResults: New page: Lighting Build
+[2023.11.08-00.13.45:201][759]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.08-00.13.45:204][759]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2023.11.08-00.13.45:213][759]LogAudio: Display: Audio Device (ID: 1) registered with world 'LevelTest'.
+[2023.11.08-00.13.45:213][759]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.08-00.13.45:214][759]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.08-00.13.45:214][759]LogAIModule: Creating AISystem for world LevelTest
+[2023.11.08-00.13.45:258][759]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.11.08-00.13.45:284][759]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2023.11.08-00.13.45:289][759]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.11.08-00.13.45:289][759]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.121ms to complete.
+[2023.11.08-00.13.45:289][759]LogFileHelpers: Loading map 'LevelTest' took 0.142
+[2023.11.08-00.13.45:302][759]AssetCheck: New page: Asset Save: BP_FirstPersonGameMode
+[2023.11.08-00.13.45:302][759]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/_Developers/MiguelMata/FirstPerson/Blueprints/BP_FirstPersonGameMode.BP_FirstPersonGameMode
+[2023.11.08-00.13.45:309][759]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.08-00.13.45:310][759]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.08-00.13.45:311][759]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.08-00.13.45:311][759]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.08-00.13.45:312][759]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.08-00.13.45:312][759]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.08-00.14.01:752][434]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.11.08-00.14.22:336][434]LogSlate: Window 'Delete Assets' being destroyed
+[2023.11.08-00.14.22:442][434]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2023.11.08-00.14.22:443][434]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.08-00.14.22:508][434]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.11.08-00.14.22:508][434]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2023.11.08-00.14.22:508][434]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.08-00.14.22:526][434]LogUObjectGlobals: Force Deleting 73 Package(s):
+	Asset Name: /Game/_Developers/MiguelMata/FirstPerson/Input/Actions/IA_Jump.IA_Jump
+	Asset Type: InputAction
+	Asset Name: /Game/_Developers/MiguelMata/FirstPerson/Input/Actions/IA_Look.IA_Look
+	Asset Type: InputAction
+	Asset Name: /Game/_Developers/MiguelMata/FirstPerson/Input/Actions/IA_Move.IA_Move
+	Asset Type: InputAction
+	Asset Name: /Game/_Developers/MiguelMata/FirstPerson/Input/IMC_Default.IMC_Default
+	Asset Type: InputMappingContext
+	Asset Name: /Game/_Developers/MiguelMata/FirstPersonArms/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP
+	Asset Type: AnimBlueprint
+	Asset Name: /Game/_Developers/MiguelMata/FirstPersonArms/Animations/FP_Rifle_Shoot_Montage.FP_Rifle_Shoot_Montage
+	Asset Type: AnimMontage
+	Asset Name: /Game/_Developers/MiguelMata/FirstPersonArms/Animations/FP_Run_Fwd.FP_Run_Fwd
+	Asset Type: AnimSequence
+	Asset Name: /Game/_Developers/MiguelMata/FirstPersonArms/Animations/FP_Rifle_Run.FP_Rifle_Run
+	Asset Type: AnimSequence
+	Asset Name: /Game/_Developers/MiguelMata/FirstPersonArms/Animations/FP_Rifle_Land.FP_Rifle_Land
+	Asset Type: AnimSequence
+	Asset Name: /Game/_Developers/MiguelMata/FirstPersonArms/Animations/FP_Rifle_Jump.FP_Rifle_Jump
+	Asset Type: AnimSequence
+[2023.11.08-00.14.22:984][434]LogMaterial: Warning: [AssetLog] G:\GitHub\REPO_BryanJamTeam2\PROJ_BrayanJamTeam2\Content\_Developers\MiguelMata\FirstPersonArms\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing Material Function
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSample) Texture Sample> Missing input texture
+	Missing Material Function
+	Missing Material Function
+	Missing Material Function
+	Missing Material Function
+
+[2023.11.08-00.14.22:986][434]LogMaterial: Warning: [AssetLog] G:\GitHub\REPO_BryanJamTeam2\PROJ_BrayanJamTeam2\Content\_Developers\MiguelMata\FirstPersonArms\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing Material Function
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSample) Texture Sample> Missing input texture
+	Missing Material Function
+	Missing Material Function
+	Missing Material Function
+	Missing Material Function
+
+[2023.11.08-00.14.22:989][434]LogMaterial: Warning: [AssetLog] G:\GitHub\REPO_BryanJamTeam2\PROJ_BrayanJamTeam2\Content\_Developers\MiguelMata\FirstPersonArms\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing Material Function
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSample) Texture Sample> Missing input texture
+	Missing Material Function
+	Missing Material Function
+	Missing Material Function
+	Missing Material Function
+
+[2023.11.08-00.14.22:992][434]LogMaterial: Warning: [AssetLog] G:\GitHub\REPO_BryanJamTeam2\PROJ_BrayanJamTeam2\Content\_Developers\MiguelMata\FirstPersonArms\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing Material Function
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSample) Texture Sample> Missing input texture
+	Missing Material Function
+	Missing Material Function
+	Missing Material Function
+	Missing Material Function
+
+[2023.11.08-00.14.22:995][434]LogMaterial: Warning: [AssetLog] G:\GitHub\REPO_BryanJamTeam2\PROJ_BrayanJamTeam2\Content\_Developers\MiguelMata\FirstPersonArms\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing Material Function
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSample) Texture Sample> Missing input texture
+	Missing Material Function
+	Missing Material Function
+	Missing Material Function
+	Missing Material Function
+
+[2023.11.08-00.14.22:997][434]LogMaterial: Warning: [AssetLog] G:\GitHub\REPO_BryanJamTeam2\PROJ_BrayanJamTeam2\Content\_Developers\MiguelMata\FirstPersonArms\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing Material Function
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSample) Texture Sample> Missing input texture
+	Missing Material Function
+	Missing Material Function
+	Missing Material Function
+	Missing Material Function
+
+[2023.11.08-00.14.23:015][434]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SK_Mannequin_Arms) ...
+[2023.11.08-00.14.23:034][434]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SK_Mannequin_Arms) ...
+[2023.11.08-00.14.23:052][434]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SK_Mannequin_Arms) ...
+[2023.11.08-00.14.23:071][434]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SK_Mannequin_Arms) ...
+[2023.11.08-00.14.23:093][434]LogMaterial: Warning: [AssetLog] G:\GitHub\REPO_BryanJamTeam2\PROJ_BrayanJamTeam2\Content\_Developers\MiguelMata\FPWeapon\Materials\M_FPGun.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing Material Function
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	Missing Material Function
+	Missing Material Function
+	Missing Material Function
+	Missing Material Function
+	Missing Material Function
+
+[2023.11.08-00.14.23:096][434]LogMaterial: Warning: [AssetLog] G:\GitHub\REPO_BryanJamTeam2\PROJ_BrayanJamTeam2\Content\_Developers\MiguelMata\FPWeapon\Materials\M_FPGun.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing Material Function
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	Missing Material Function
+	Missing Material Function
+	Missing Material Function
+	Missing Material Function
+	Missing Material Function
+
+[2023.11.08-00.14.23:099][434]LogMaterial: Warning: [AssetLog] G:\GitHub\REPO_BryanJamTeam2\PROJ_BrayanJamTeam2\Content\_Developers\MiguelMata\FPWeapon\Materials\M_FPGun.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing Material Function
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	Missing Material Function
+	Missing Material Function
+	Missing Material Function
+	Missing Material Function
+	Missing Material Function
+
+[2023.11.08-00.14.23:102][434]LogMaterial: Warning: [AssetLog] G:\GitHub\REPO_BryanJamTeam2\PROJ_BrayanJamTeam2\Content\_Developers\MiguelMata\FPWeapon\Materials\M_FPGun.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing Material Function
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	Missing Material Function
+	Missing Material Function
+	Missing Material Function
+	Missing Material Function
+	Missing Material Function
+
+[2023.11.08-00.14.23:105][434]LogMaterial: Warning: [AssetLog] G:\GitHub\REPO_BryanJamTeam2\PROJ_BrayanJamTeam2\Content\_Developers\MiguelMata\FPWeapon\Materials\M_FPGun.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing Material Function
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	Missing Material Function
+	Missing Material Function
+	Missing Material Function
+	Missing Material Function
+	Missing Material Function
+
+[2023.11.08-00.14.23:108][434]LogMaterial: Warning: [AssetLog] G:\GitHub\REPO_BryanJamTeam2\PROJ_BrayanJamTeam2\Content\_Developers\MiguelMata\FPWeapon\Materials\M_FPGun.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing Material Function
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	Missing Material Function
+	Missing Material Function
+	Missing Material Function
+	Missing Material Function
+	Missing Material Function
+
+[2023.11.08-00.14.23:143][434]LogMaterial: Warning: [AssetLog] G:\GitHub\REPO_BryanJamTeam2\PROJ_BrayanJamTeam2\Content\_Developers\MiguelMata\LevelPrototyping\Materials\M_PrototypeGrid.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing Material Function
+	Missing Material Function
+
+[2023.11.08-00.14.23:175][434]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2023.11.08-00.14.25:378][434]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2023.11.08-00.14.25:400][434]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2023.11.08-00.14.25:421][434]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.11.08-00.14.25:544][435]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.08-00.14.25:928][438]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.08-00.14.25:968][439]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.08-00.14.26:724][485]LogShaderCompilers: Display: ================================================
+[2023.11.08-00.14.26:724][485]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.11.08-00.14.26:724][485]LogShaderCompilers: Display: Total job queries 4, among them cache hits 0 (0.00%)
+[2023.11.08-00.14.26:724][485]LogShaderCompilers: Display: Tracking 1 distinct input hashes that result in 1 distinct outputs (100.00%)
+[2023.11.08-00.14.26:724][485]LogShaderCompilers: Display: RAM used: 18.84 KiB of 819.20 MiB budget. Usage: 0.00%
+[2023.11.08-00.14.26:724][485]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.11.08-00.14.26:724][485]LogShaderCompilers: Display: Shaders Compiled: 1
+[2023.11.08-00.14.26:724][485]LogShaderCompilers: Display: Jobs assigned 4, completed 1 (25.00%)
+[2023.11.08-00.14.26:724][485]LogShaderCompilers: Display: Time job spent in pending queue: average 0.02 s, longest 0.02 s
+[2023.11.08-00.14.26:724][485]LogShaderCompilers: Display: Job execution time: average 0.65 s, max 0.65 s
+[2023.11.08-00.14.26:724][485]LogShaderCompilers: Display: Job life time (pending + execution): average 0.67 s, max 0.67
+[2023.11.08-00.14.26:724][485]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.67 s
+[2023.11.08-00.14.26:724][485]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.11.08-00.14.26:724][485]LogShaderCompilers: Display: Average processing rate: 1.50 jobs/sec
+[2023.11.08-00.14.26:724][485]LogShaderCompilers: Display: Total thread time: 0.377 s
+[2023.11.08-00.14.26:724][485]LogShaderCompilers: Display: Total thread preprocess time: 0.025 s
+[2023.11.08-00.14.26:724][485]LogShaderCompilers: Display: Percentage time preprocessing: 6.56%
+[2023.11.08-00.14.26:724][485]LogShaderCompilers: Display: Effective parallelization: 0.57 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.11.08-00.14.26:724][485]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2023.11.08-00.14.26:724][485]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.38 sec, max 0.38 sec, min 0.38 sec)
+[2023.11.08-00.14.26:724][485]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2023.11.08-00.14.26:724][485]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 100.00% of total time (compiled    1 times, average 0.38 sec, max 0.38 sec, min 0.38 sec)
+[2023.11.08-00.14.26:724][485]LogShaderCompilers: Display: ================================================
+[2023.11.08-00.14.27:212][522]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.08-00.14.32:680][ 48]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_Developers/MiguelMata/BP_PlayerController.BP_PlayerController
+[2023.11.08-00.14.32:681][ 48]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.08-00.14.32:681][ 48]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.08-00.14.34:959][259]BlueprintLog: New page: Compile BP_PlayerController
+[2023.11.08-00.14.34:968][259]LogBlueprint: Warning: [AssetLog] G:\GitHub\REPO_BryanJamTeam2\PROJ_BrayanJamTeam2\Content\_Developers\MiguelMata\BP_PlayerController.uasset: [Compiler] EnhancedInputAction None  does not have a valid Input Action asset!!
+[2023.11.08-00.14.34:968][259]LogBlueprint: Warning: [AssetLog] G:\GitHub\REPO_BryanJamTeam2\PROJ_BrayanJamTeam2\Content\_Developers\MiguelMata\BP_PlayerController.uasset: [Compiler] EnhancedInputAction None  does not have a valid Input Action asset!!
+[2023.11.08-00.14.34:968][259]LogBlueprint: Warning: [AssetLog] G:\GitHub\REPO_BryanJamTeam2\PROJ_BrayanJamTeam2\Content\_Developers\MiguelMata\BP_PlayerController.uasset: [Compiler] EnhancedInputAction None  does not have a valid Input Action asset!!
+[2023.11.08-00.14.34:971][259]LogBlueprint: Error: [AssetLog] G:\GitHub\REPO_BryanJamTeam2\PROJ_BrayanJamTeam2\Content\_Developers\MiguelMata\BP_PlayerController.uasset: [Compiler] EnhancedInputActionEvent references invalid 'null' action for  EnhancedInputAction None
+[2023.11.08-00.14.34:971][259]LogBlueprint: Error: [AssetLog] G:\GitHub\REPO_BryanJamTeam2\PROJ_BrayanJamTeam2\Content\_Developers\MiguelMata\BP_PlayerController.uasset: [Compiler] EnhancedInputActionEvent references invalid 'null' action for  EnhancedInputAction None
+[2023.11.08-00.14.34:971][259]LogBlueprint: Error: [AssetLog] G:\GitHub\REPO_BryanJamTeam2\PROJ_BrayanJamTeam2\Content\_Developers\MiguelMata\BP_PlayerController.uasset: [Compiler] EnhancedInputActionEvent references invalid 'null' action for  EnhancedInputAction None
+[2023.11.08-00.14.35:085][259]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2023.11.08-00.15.28:976][304]LogEditorTransaction: Undo Delete current selection
+[2023.11.08-00.16.13:081][100]BlueprintLog: New page: Compile BP_PlayerController
+[2023.11.08-00.16.13:154][100]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2023.11.08-00.16.14:043][196]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.08-00.16.14:146][196]LogSavePackage: Moving output files for package: /Game/_Developers/MiguelMata/BP_PlayerController
+[2023.11.08-00.16.14:146][196]LogSavePackage: Moving '../../../../GitHub/REPO_BryanJamTeam2/PROJ_BrayanJamTeam2/Saved/BP_PlayerControllerD9727EC14CB0DF91844260BB73A5C8CE.tmp' to '../../../../GitHub/REPO_BryanJamTeam2/PROJ_BrayanJamTeam2/Content/_Developers/MiguelMata/BP_PlayerController.uasset'
+[2023.11.08-00.16.14:155][196]LogFileHelpers: InternalPromptForCheckoutAndSave took 112 ms (total: 1.11 sec)
+[2023.11.08-00.16.14:163][196]AssetCheck: New page: Asset Save: BP_PlayerController
+[2023.11.08-00.16.14:163][196]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/_Developers/MiguelMata/BP_PlayerController.BP_PlayerController
+[2023.11.08-00.16.21:887][ 99]BlueprintLog: New page: Compile BP_PlayerController
+[2023.11.08-00.16.21:957][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2023.11.08-00.16.22:395][141]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.08-00.16.22:490][141]LogSavePackage: Moving output files for package: /Game/_Developers/MiguelMata/BP_PlayerController
+[2023.11.08-00.16.22:491][141]LogSavePackage: Moving '../../../../GitHub/REPO_BryanJamTeam2/PROJ_BrayanJamTeam2/Saved/BP_PlayerControllerAEB3E93D4DE44E80FE5130A28040EBA7.tmp' to '../../../../GitHub/REPO_BryanJamTeam2/PROJ_BrayanJamTeam2/Content/_Developers/MiguelMata/BP_PlayerController.uasset'
+[2023.11.08-00.16.22:499][141]LogFileHelpers: InternalPromptForCheckoutAndSave took 103 ms (total: 1.21 sec)
+[2023.11.08-00.16.22:506][141]AssetCheck: New page: Asset Save: BP_PlayerController
+[2023.11.08-00.16.22:506][141]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/_Developers/MiguelMata/BP_PlayerController.BP_PlayerController
+[2023.11.08-00.16.22:932][190]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.08-00.16.22:933][190]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.08-00.16.22:933][190]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.08-00.16.22:933][190]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.08-00.16.22:934][190]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.08-00.16.22:934][190]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.08-00.16.23:866][271]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.08-00.16.23:941][271]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.11.08-00.16.23:953][271]LogSavePackage: Moving output files for package: /Game/_Developers/MiguelMata/TestGround/LevelTest
+[2023.11.08-00.16.23:954][271]LogSavePackage: Moving '../../../../GitHub/REPO_BryanJamTeam2/PROJ_BrayanJamTeam2/Saved/LevelTestC253786E4378903F905F40A11253CAE7.tmp' to '../../../../GitHub/REPO_BryanJamTeam2/PROJ_BrayanJamTeam2/Content/_Developers/MiguelMata/TestGround/LevelTest.umap'
+[2023.11.08-00.16.23:960][271]LogFileHelpers: Saving map 'LevelTest' took 0.042
+[2023.11.08-00.16.23:969][271]LogFileHelpers: InternalPromptForCheckoutAndSave took 103 ms (total: 1.32 sec)
+[2023.11.08-00.16.23:976][271]AssetCheck: New page: Asset Save: LevelTest
+[2023.11.08-00.16.23:976][271]LogContentValidation: Display: Validating /Script/Engine.World /Game/_Developers/MiguelMata/TestGround/LevelTest.LevelTest
+[2023.11.08-00.16.28:946][744]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.11.08-00.16.28:948][744]LogAssetEditorSubsystem: Opening Asset editor for World /Game/_Developers/MiguelMata/TestGround/LevelTest.LevelTest
+[2023.11.08-00.16.28:948][744]Cmd: MAP LOAD FILE="../../../../GitHub/REPO_BryanJamTeam2/PROJ_BrayanJamTeam2/Content/_Developers/MiguelMata/TestGround/LevelTest.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.11.08-00.16.28:948][744]LightingResults: New page: Lighting Build
+[2023.11.08-00.16.28:948][744]LoadErrors: New page: Loading map: LevelTest.umap
+[2023.11.08-00.16.28:979][744]LogWorld: UWorld::CleanupWorld for LevelTest, bSessionEnded=true, bCleanupResources=true
+[2023.11.08-00.16.28:979][744]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.08-00.16.28:980][744]MapCheck: New page: Map Check
+[2023.11.08-00.16.28:980][744]LightingResults: New page: Lighting Build
+[2023.11.08-00.16.29:001][744]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.08-00.16.29:003][744]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2023.11.08-00.16.29:009][744]LogAudio: Display: Audio Device (ID: 1) registered with world 'LevelTest'.
+[2023.11.08-00.16.29:009][744]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.08-00.16.29:009][744]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.08-00.16.29:009][744]LogAIModule: Creating AISystem for world LevelTest
+[2023.11.08-00.16.29:049][744]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.11.08-00.16.29:075][744]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2023.11.08-00.16.29:079][744]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.11.08-00.16.29:079][744]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.117ms to complete.
+[2023.11.08-00.16.29:079][744]LogFileHelpers: Loading map 'LevelTest' took 0.132
+[2023.11.08-00.16.29:096][744]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.08-00.16.29:097][744]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.08-00.16.29:097][744]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.08-00.16.29:098][744]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.08-00.16.29:098][744]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.08-00.16.29:098][744]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.08-00.16.36:049][394]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.08-00.16.36:057][394]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.08-00.16.36:057][394]PIE: New page: PIE session: LevelTest (Nov 7, 2023, 12:16:36 PM)
+[2023.11.08-00.16.36:078][394]LogPlayLevel: Creating play world package: /Game/_Developers/MiguelMata/TestGround/UEDPIE_0_LevelTest
+[2023.11.08-00.16.36:082][394]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003606s)
+[2023.11.08-00.16.36:082][394]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Developers/MiguelMata/TestGround/LevelTest.LevelTest to /Game/_Developers/MiguelMata/TestGround/UEDPIE_0_LevelTest.LevelTest (0.003664s)
+[2023.11.08-00.16.36:082][394]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.08-00.16.36:082][394]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.08-00.16.36:082][394]LogAIModule: Creating AISystem for world LevelTest
+[2023.11.08-00.16.36:083][394]LogPlayLevel: PIE: World Init took: (0.000931s)
+[2023.11.08-00.16.36:103][394]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2023.11.08-00.16.36:107][394]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2023.11.08-00.16.36:108][394]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.08-00.16.36:108][394]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.08-00.16.36:108][394]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.08-00.16.36:108][394]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.08-00.16.36:108][394]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.08-00.16.36:108][394]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.08-00.16.36:108][394]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.08-00.16.36:108][394]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.08-00.16.36:108][394]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.08-00.16.36:108][394]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.08-00.16.36:108][394]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.08-00.16.36:110][394]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.08-00.16.36:140][394]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (2- USB PnP Audio Device)
+[2023.11.08-00.16.36:140][394]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.08-00.16.36:140][394]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.08-00.16.36:140][394]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.08-00.16.36:141][394]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2023.11.08-00.16.36:141][394]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2023.11.08-00.16.36:143][394]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2023.11.08-00.16.36:143][394]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2023.11.08-00.16.36:143][394]LogInit: FAudioDevice initialized with ID 14.
+[2023.11.08-00.16.36:143][394]LogAudio: Display: Audio Device (ID: 14) registered with world 'LevelTest'.
+[2023.11.08-00.16.36:144][394]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2023.11.08-00.16.36:147][394]LogLoad: Game class is 'BP_GameMode_C'
+[2023.11.08-00.16.36:148][394]LogWorld: Bringing World /Game/_Developers/MiguelMata/TestGround/UEDPIE_0_LevelTest.LevelTest up for play (max tick rate 0) at 2023.11.07-18.16.36
+[2023.11.08-00.16.36:148][394]LogWorld: Bringing up level for play took: 0.001269
+[2023.11.08-00.16.36:150][394]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2023.11.08-00.16.36:152][394]PIE: Server logged in
+[2023.11.08-00.16.36:153][394]PIE: Play in editor total start time 0.096 seconds.
+[2023.11.08-00.16.36:172][394]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.08-00.16.36:172][394]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.08-00.16.36:173][394]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.08-00.16.36:173][394]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.08-00.16.36:174][394]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.08-00.16.36:174][394]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.08-00.16.36:175][394]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.08-00.16.36:175][394]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.08-00.16.36:176][394]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.08-00.16.36:176][394]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.08-00.16.36:176][394]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.08-00.16.36:177][394]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.08-00.16.36:177][394]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.08-00.16.36:178][394]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.08-00.16.36:179][394]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.08-00.16.36:179][394]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.08-00.16.40:218][803]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.08-00.16.40:218][803]LogWorld: BeginTearingDown for /Game/_Developers/MiguelMata/TestGround/UEDPIE_0_LevelTest
+[2023.11.08-00.16.40:218][803]LogWorld: UWorld::CleanupWorld for LevelTest, bSessionEnded=true, bCleanupResources=true
+[2023.11.08-00.16.40:219][803]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.08-00.16.40:222][803]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.08-00.16.40:227][803]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.08-00.16.40:250][803]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.08-00.16.40:250][803]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2023.11.08-00.16.40:250][803]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2023.11.08-00.16.40:252][803]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2023.11.08-00.16.40:259][803]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2023.11.08-00.16.40:287][803]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.08-00.16.40:287][803]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.08-00.16.40:288][803]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.08-00.16.40:288][803]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.08-00.16.40:289][803]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.08-00.16.40:289][803]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.08-00.16.40:303][805]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2023.11.08-00.17.16:441][977]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.08-00.17.16:491][977]LogSavePackage: Moving output files for package: /Game/_Developers/MiguelMata/Character/Inputs/IMC_Character
+[2023.11.08-00.17.16:491][977]LogSavePackage: Moving '../../../../GitHub/REPO_BryanJamTeam2/PROJ_BrayanJamTeam2/Saved/IMC_CharacterBD64CCEC42E09BD30233A9B6BD041778.tmp' to '../../../../GitHub/REPO_BryanJamTeam2/PROJ_BrayanJamTeam2/Content/_Developers/MiguelMata/Character/Inputs/IMC_Character.uasset'
+[2023.11.08-00.17.16:500][977]LogFileHelpers: InternalPromptForCheckoutAndSave took 58 ms (total: 1.38 sec)
+[2023.11.08-00.17.16:506][977]AssetCheck: New page: Asset Save: IMC_Character
+[2023.11.08-00.17.16:506][977]LogContentValidation: Display: Validating /Script/EnhancedInput.InputMappingContext /Game/_Developers/MiguelMata/Character/Inputs/IMC_Character.IMC_Character
+[2023.11.08-00.17.17:347][ 74]LogViewport: Scene viewport resized to 1013x702, mode Windowed.
+[2023.11.08-00.17.17:373][ 75]LogViewport: Scene viewport resized to 1013x694, mode Windowed.
+[2023.11.08-00.17.17:428][ 76]LogViewport: Scene viewport resized to 1013x676, mode Windowed.
+[2023.11.08-00.17.17:454][ 77]LogViewport: Scene viewport resized to 1013x670, mode Windowed.
+[2023.11.08-00.17.17:473][ 78]LogViewport: Scene viewport resized to 1013x665, mode Windowed.
