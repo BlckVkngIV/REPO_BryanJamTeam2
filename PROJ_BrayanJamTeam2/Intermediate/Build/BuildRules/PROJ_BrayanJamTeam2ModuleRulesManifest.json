@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\PC\\Documents\\Unreal Projects\\REPO_BryanJamTeam2\\PROJ_BrayanJamTeam2\\Source\\PROJ_BrayanJamTeam2\\PROJ_BrayanJamTeam2.Build.cs",
-		"C:\\Users\\PC\\Documents\\Unreal Projects\\REPO_BryanJamTeam2\\PROJ_BrayanJamTeam2\\Source\\PROJ_BrayanJamTeam2.Target.cs",
-		"C:\\Users\\PC\\Documents\\Unreal Projects\\REPO_BryanJamTeam2\\PROJ_BrayanJamTeam2\\Source\\PROJ_BrayanJamTeam2Editor.Target.cs"
+		"G:\\GitHub\\REPO_BryanJamTeam2\\PROJ_BrayanJamTeam2\\Source\\PROJ_BrayanJamTeam2\\PROJ_BrayanJamTeam2.Build.cs",
+		"G:\\GitHub\\REPO_BryanJamTeam2\\PROJ_BrayanJamTeam2\\Source\\PROJ_BrayanJamTeam2.Target.cs",
+		"G:\\GitHub\\REPO_BryanJamTeam2\\PROJ_BrayanJamTeam2\\Source\\PROJ_BrayanJamTeam2Editor.Target.cs"
 	],
 	"EngineVersion": "5.2.1"
 }
