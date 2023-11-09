@@ -4799,3 +4799,367 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.11.09-11.32.41:699][180]LogFileHelpers: InternalPromptForCheckoutAndSave took 148 ms (total: 1.32 sec)
 [2023.11.09-11.32.41:707][180]AssetCheck: New page: Asset Save: mainmenumap
 [2023.11.09-11.32.41:707][180]LogContentValidation: Display: Validating /Script/Engine.World /Game/_Developers/MarioGomez/UI/mainmenumap.mainmenumap
+[2023.11.09-11.38.17:578][950]LogSlate: Window 'Color Picker' being destroyed
+[2023.11.09-11.38.22:907][ 18]BlueprintLog: New page: Compile PauseMenu
+[2023.11.09-11.38.22:973][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2023.11.09-11.38.24:816][104]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.09-11.38.24:925][104]LogSavePackage: Moving output files for package: /Game/_Developers/MarioGomez/UI/PauseMenu
+[2023.11.09-11.38.24:926][104]LogSavePackage: Moving 'C:/Github/UNREAL/5.2/Tecnicas Texturizado/REPO_BryanJamTeam2/PROJ_BrayanJamTeam2/Saved/PauseMenu72007B2D426E284DBB090C9BD9D3603E.tmp' to 'C:/Github/UNREAL/5.2/Tecnicas Texturizado/REPO_BryanJamTeam2/PROJ_BrayanJamTeam2/Content/_Developers/MarioGomez/UI/PauseMenu.uasset'
+[2023.11.09-11.38.24:941][104]LogFileHelpers: InternalPromptForCheckoutAndSave took 125 ms (total: 1.44 sec)
+[2023.11.09-11.38.24:952][104]AssetCheck: New page: Asset Save: PauseMenu
+[2023.11.09-11.38.24:952][104]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/_Developers/MarioGomez/UI/PauseMenu.PauseMenu
+[2023.11.09-11.38.26:477][190]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.11.09-11.38.26:488][190]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.09-11.38.26:488][190]PIE: New page: PIE session: mainmenumap (Nov 8, 2023, 11:38:26 PM)
+[2023.11.09-11.38.26:488][190]LogPlayLevel: Creating play world package: /Game/_Developers/MarioGomez/UI/UEDPIE_0_mainmenumap
+[2023.11.09-11.38.26:489][190]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001490s)
+[2023.11.09-11.38.26:490][190]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Developers/MarioGomez/UI/mainmenumap.mainmenumap to /Game/_Developers/MarioGomez/UI/UEDPIE_0_mainmenumap.mainmenumap (0.001564s)
+[2023.11.09-11.38.26:490][190]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.09-11.38.26:490][190]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.09-11.38.26:490][190]LogAIModule: Creating AISystem for world mainmenumap
+[2023.11.09-11.38.26:491][190]LogPlayLevel: PIE: World Init took: (0.001587s)
+[2023.11.09-11.38.26:517][190]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2023.11.09-11.38.26:519][190]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2023.11.09-11.38.26:519][190]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.09-11.38.26:519][190]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.09-11.38.26:519][190]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.09-11.38.26:519][190]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.09-11.38.26:519][190]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.09-11.38.26:519][190]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.09-11.38.26:519][190]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.09-11.38.26:519][190]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.09-11.38.26:520][190]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.09-11.38.26:520][190]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.09-11.38.26:520][190]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.09-11.38.26:522][190]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.09-11.38.26:559][190]LogAudioMixer: Display: Using Audio Hardware Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2023.11.09-11.38.26:560][190]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.09-11.38.26:560][190]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.09-11.38.26:560][190]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.09-11.38.26:561][190]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=26
+[2023.11.09-11.38.26:561][190]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=26
+[2023.11.09-11.38.26:563][190]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=26
+[2023.11.09-11.38.26:563][190]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=26
+[2023.11.09-11.38.26:564][190]LogInit: FAudioDevice initialized with ID 26.
+[2023.11.09-11.38.26:564][190]LogAudio: Display: Audio Device (ID: 26) registered with world 'mainmenumap'.
+[2023.11.09-11.38.26:564][190]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 26
+[2023.11.09-11.38.26:617][190]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.09-11.38.26:618][190]LogLoad: Game class is 'MenuGameMode_C'
+[2023.11.09-11.38.26:619][190]LogWorld: Bringing World /Game/_Developers/MarioGomez/UI/UEDPIE_0_mainmenumap.mainmenumap up for play (max tick rate 0) at 2023.11.09-05.38.26
+[2023.11.09-11.38.26:619][190]LogWorld: Bringing up level for play took: 0.000865
+[2023.11.09-11.38.26:622][190]LogOnline: OSS: Created online subsystem instance for: :Context_49
+[2023.11.09-11.38.26:625][190]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.09-11.38.26:625][190]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.11.09-11.38.26:631][190]PIE: Server logged in
+[2023.11.09-11.38.26:636][190]PIE: Play in editor total start time 0.149 seconds.
+[2023.11.09-11.38.26:675][190]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-11.38.26:676][190]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-11.38.26:676][190]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-11.38.26:676][190]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-11.38.26:677][190]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-11.38.26:677][190]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-11.38.26:678][190]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-11.38.26:678][190]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-11.38.26:679][190]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-11.38.26:679][190]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-11.38.26:680][190]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-11.38.26:680][190]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-11.38.26:686][190]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.11.09-11.38.28:638][278]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.11.09-11.38.28:638][278]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.11.09-11.38.28:640][278]LogNet: Browse: /Game/_Developers/EliasTrevino/NewMap
+[2023.11.09-11.38.28:640][278]LogLoad: LoadMap: /Game/_Developers/EliasTrevino/NewMap
+[2023.11.09-11.38.28:640][278]LogWorld: BeginTearingDown for /Game/_Developers/MarioGomez/UI/UEDPIE_0_mainmenumap
+[2023.11.09-11.38.28:640][278]LogWorld: UWorld::CleanupWorld for mainmenumap, bSessionEnded=true, bCleanupResources=true
+[2023.11.09-11.38.28:640][278]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.09-11.38.28:665][278]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.09-11.38.28:668][278]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2023.11.09-11.38.28:676][278]LogAudio: Display: Audio Device (ID: 26) registered with world 'NewMap'.
+[2023.11.09-11.38.28:676][278]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.09-11.38.28:676][278]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.09-11.38.28:676][278]LogAIModule: Creating AISystem for world NewMap
+[2023.11.09-11.38.28:677][278]LogPlayLevel: PIE: World Init took: (0.000783s)
+[2023.11.09-11.38.28:677][278]LogLoad: Game class is 'GM_JamBlueprint_C'
+[2023.11.09-11.38.28:681][278]LogWorld: Bringing World /Game/_Developers/EliasTrevino/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2023.11.09-05.38.28
+[2023.11.09-11.38.28:682][278]LogWorld: Bringing up level for play took: 0.004926
+[2023.11.09-11.38.28:684][278]LogLoad: Took 0.044344 seconds to LoadMap(/Game/_Developers/EliasTrevino/NewMap)
+[2023.11.09-11.38.28:703][278]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-11.38.28:704][278]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-11.38.28:704][278]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-11.38.28:705][278]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-11.38.28:706][278]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-11.38.28:706][278]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-11.38.28:706][278]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-11.38.28:707][278]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-11.38.28:707][278]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-11.38.28:707][278]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-11.38.28:709][278]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-11.38.28:709][278]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-11.38.28:710][278]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-11.38.28:710][278]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-11.38.28:711][278]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-11.38.28:711][278]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-11.38.28:712][278]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-11.38.28:712][278]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-11.38.28:713][278]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-11.38.28:713][278]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-11.38.28:714][278]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-11.38.28:714][278]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-11.38.28:715][278]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-11.38.28:715][278]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-11.38.28:716][278]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-11.38.28:716][278]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-11.38.30:974][381]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.09-11.38.30:974][381]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.11.09-11.38.34:237][528]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.11.09-11.38.34:237][528]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.11.09-11.38.34:813][554]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.09-11.38.34:813][554]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.11.09-11.38.35:573][590]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.11.09-11.38.35:573][590]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.11.09-11.38.35:881][604]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.09-11.38.35:881][604]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.11.09-11.38.37:142][664]LogNet: Browse: /Game/_Developers/MarioGomez/UI/mainmenumap
+[2023.11.09-11.38.37:142][664]LogLoad: LoadMap: /Game/_Developers/MarioGomez/UI/mainmenumap
+[2023.11.09-11.38.37:142][664]LogWorld: BeginTearingDown for /Game/_Developers/EliasTrevino/UEDPIE_0_NewMap
+[2023.11.09-11.38.37:143][664]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.09-11.38.37:143][664]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.09-11.38.37:192][664]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.09-11.38.37:194][664]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2023.11.09-11.38.37:196][664]LogPlayLevel: Creating play world package: /Game/_Developers/MarioGomez/UI/UEDPIE_0_mainmenumap
+[2023.11.09-11.38.37:197][664]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001134s)
+[2023.11.09-11.38.37:197][664]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Developers/MarioGomez/UI/mainmenumap.mainmenumap to /Game/_Developers/MarioGomez/UI/UEDPIE_0_mainmenumap.mainmenumap (0.001184s)
+[2023.11.09-11.38.37:197][664]LogAudio: Display: Audio Device (ID: 26) registered with world 'mainmenumap'.
+[2023.11.09-11.38.37:197][664]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.09-11.38.37:197][664]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.09-11.38.37:199][664]LogAIModule: Creating AISystem for world mainmenumap
+[2023.11.09-11.38.37:199][664]LogPlayLevel: PIE: World Init took: (0.000916s)
+[2023.11.09-11.38.37:199][664]LogLoad: Game class is 'MenuGameMode_C'
+[2023.11.09-11.38.37:199][664]LogWorld: Bringing World /Game/_Developers/MarioGomez/UI/UEDPIE_0_mainmenumap.mainmenumap up for play (max tick rate 0) at 2023.11.09-05.38.37
+[2023.11.09-11.38.37:200][664]LogWorld: Bringing up level for play took: 0.000311
+[2023.11.09-11.38.37:200][664]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.11.09-11.38.37:201][664]LogLoad: Took 0.058519 seconds to LoadMap(/Game/_Developers/MarioGomez/UI/UEDPIE_0_mainmenumap)
+[2023.11.09-11.38.37:214][664]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-11.38.37:215][664]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-11.38.37:216][664]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-11.38.37:216][664]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-11.38.37:217][664]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-11.38.37:218][664]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-11.38.37:218][664]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-11.38.37:219][664]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-11.38.37:222][664]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-11.38.37:224][664]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-11.38.37:225][664]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-11.38.38:025][703]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.11.09-11.38.38:025][703]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.11.09-11.38.38:027][703]LogNet: Browse: /Game/_Developers/EliasTrevino/NewMap
+[2023.11.09-11.38.38:027][703]LogLoad: LoadMap: /Game/_Developers/EliasTrevino/NewMap
+[2023.11.09-11.38.38:027][703]LogWorld: BeginTearingDown for /Game/_Developers/MarioGomez/UI/UEDPIE_0_mainmenumap
+[2023.11.09-11.38.38:028][703]LogWorld: UWorld::CleanupWorld for mainmenumap, bSessionEnded=true, bCleanupResources=true
+[2023.11.09-11.38.38:028][703]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.09-11.38.38:052][703]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.09-11.38.38:055][703]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2023.11.09-11.38.38:064][703]LogAudio: Display: Audio Device (ID: 26) registered with world 'NewMap'.
+[2023.11.09-11.38.38:064][703]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.09-11.38.38:064][703]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.09-11.38.38:065][703]LogAIModule: Creating AISystem for world NewMap
+[2023.11.09-11.38.38:065][703]LogPlayLevel: PIE: World Init took: (0.000929s)
+[2023.11.09-11.38.38:065][703]LogLoad: Game class is 'GM_JamBlueprint_C'
+[2023.11.09-11.38.38:069][703]LogWorld: Bringing World /Game/_Developers/EliasTrevino/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2023.11.09-05.38.38
+[2023.11.09-11.38.38:070][703]LogWorld: Bringing up level for play took: 0.004554
+[2023.11.09-11.38.38:072][703]LogLoad: Took 0.044656 seconds to LoadMap(/Game/_Developers/EliasTrevino/NewMap)
+[2023.11.09-11.38.38:092][703]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-11.38.38:092][703]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-11.38.38:093][703]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-11.38.38:094][703]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-11.38.38:094][703]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-11.38.38:095][703]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-11.38.38:095][703]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-11.38.38:096][703]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-11.38.38:096][703]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-11.38.38:096][703]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-11.38.38:097][703]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-11.38.38:097][703]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-11.38.38:098][703]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-11.38.38:098][703]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-11.38.38:099][703]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-11.38.38:099][703]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-11.38.38:100][703]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-11.38.38:100][703]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-11.38.38:101][703]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-11.38.38:101][703]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-11.38.38:102][703]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-11.38.38:102][703]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-11.38.38:104][703]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-11.38.38:104][703]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-11.38.38:104][703]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-11.38.38:105][703]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-11.38.38:635][726]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.09-11.38.38:635][726]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.11.09-11.38.39:675][775]Cmd: quit
+[2023.11.09-11.38.39:676][775]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.09-11.38.39:676][775]LogWorld: BeginTearingDown for /Game/_Developers/EliasTrevino/UEDPIE_0_NewMap
+[2023.11.09-11.38.39:678][775]LogSlate: Window 'PROJ_BrayanJamTeam2 Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.11.09-11.38.39:689][775]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.09-11.38.39:690][775]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.09-11.38.39:696][775]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.09-11.38.39:701][775]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.09-11.38.39:726][775]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.09-11.38.39:726][775]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 26
+[2023.11.09-11.38.39:727][775]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2023.11.09-11.38.39:728][775]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2023.11.09-11.38.39:737][775]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2023.11.09-11.38.39:761][775]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-11.38.39:793][776]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2023.11.09-11.38.50:036][955]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.11.09-11.38.50:043][955]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.09-11.38.50:043][955]PIE: New page: PIE session: mainmenumap (Nov 8, 2023, 11:38:50 PM)
+[2023.11.09-11.38.50:044][955]LogPlayLevel: Creating play world package: /Game/_Developers/MarioGomez/UI/UEDPIE_0_mainmenumap
+[2023.11.09-11.38.50:045][955]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001165s)
+[2023.11.09-11.38.50:045][955]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Developers/MarioGomez/UI/mainmenumap.mainmenumap to /Game/_Developers/MarioGomez/UI/UEDPIE_0_mainmenumap.mainmenumap (0.001204s)
+[2023.11.09-11.38.50:045][955]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.09-11.38.50:045][955]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.09-11.38.50:045][955]LogAIModule: Creating AISystem for world mainmenumap
+[2023.11.09-11.38.50:046][955]LogPlayLevel: PIE: World Init took: (0.000851s)
+[2023.11.09-11.38.50:072][955]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2023.11.09-11.38.50:074][955]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2023.11.09-11.38.50:074][955]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.09-11.38.50:074][955]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.09-11.38.50:074][955]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.09-11.38.50:074][955]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.09-11.38.50:074][955]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.09-11.38.50:074][955]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.09-11.38.50:074][955]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.09-11.38.50:074][955]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.09-11.38.50:075][955]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.09-11.38.50:075][955]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.09-11.38.50:075][955]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.09-11.38.50:077][955]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.09-11.38.50:112][955]LogAudioMixer: Display: Using Audio Hardware Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2023.11.09-11.38.50:113][955]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.09-11.38.50:113][955]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.09-11.38.50:113][955]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.09-11.38.50:114][955]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=27
+[2023.11.09-11.38.50:114][955]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=27
+[2023.11.09-11.38.50:116][955]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=27
+[2023.11.09-11.38.50:116][955]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=27
+[2023.11.09-11.38.50:116][955]LogInit: FAudioDevice initialized with ID 27.
+[2023.11.09-11.38.50:116][955]LogAudio: Display: Audio Device (ID: 27) registered with world 'mainmenumap'.
+[2023.11.09-11.38.50:116][955]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 27
+[2023.11.09-11.38.50:160][955]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.09-11.38.50:160][955]LogLoad: Game class is 'MenuGameMode_C'
+[2023.11.09-11.38.50:160][955]LogWorld: Bringing World /Game/_Developers/MarioGomez/UI/UEDPIE_0_mainmenumap.mainmenumap up for play (max tick rate 0) at 2023.11.09-05.38.50
+[2023.11.09-11.38.50:160][955]LogWorld: Bringing up level for play took: 0.000412
+[2023.11.09-11.38.50:164][955]LogOnline: OSS: Created online subsystem instance for: :Context_50
+[2023.11.09-11.38.50:165][955]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.09-11.38.50:165][955]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.11.09-11.38.50:170][955]PIE: Server logged in
+[2023.11.09-11.38.50:175][955]PIE: Play in editor total start time 0.132 seconds.
+[2023.11.09-11.38.50:207][955]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-11.38.50:207][955]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-11.38.50:208][955]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-11.38.50:209][955]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-11.38.50:209][955]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-11.38.50:209][955]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-11.38.50:210][955]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-11.38.50:210][955]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-11.38.50:211][955]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-11.38.50:211][955]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-11.38.50:212][955]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-11.38.50:212][955]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-11.38.50:220][955]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.11.09-11.38.51:286][994]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.11.09-11.38.51:286][994]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.11.09-11.38.51:287][994]LogNet: Browse: /Game/_Developers/EliasTrevino/NewMap
+[2023.11.09-11.38.51:287][994]LogLoad: LoadMap: /Game/_Developers/EliasTrevino/NewMap
+[2023.11.09-11.38.51:287][994]LogWorld: BeginTearingDown for /Game/_Developers/MarioGomez/UI/UEDPIE_0_mainmenumap
+[2023.11.09-11.38.51:288][994]LogWorld: UWorld::CleanupWorld for mainmenumap, bSessionEnded=true, bCleanupResources=true
+[2023.11.09-11.38.51:288][994]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.09-11.38.51:313][994]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.09-11.38.51:316][994]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2023.11.09-11.38.51:326][994]LogAudio: Display: Audio Device (ID: 27) registered with world 'NewMap'.
+[2023.11.09-11.38.51:326][994]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.09-11.38.51:326][994]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.09-11.38.51:327][994]LogAIModule: Creating AISystem for world NewMap
+[2023.11.09-11.38.51:327][994]LogPlayLevel: PIE: World Init took: (0.001007s)
+[2023.11.09-11.38.51:327][994]LogLoad: Game class is 'GM_JamBlueprint_C'
+[2023.11.09-11.38.51:331][994]LogWorld: Bringing World /Game/_Developers/EliasTrevino/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2023.11.09-05.38.51
+[2023.11.09-11.38.51:332][994]LogWorld: Bringing up level for play took: 0.004703
+[2023.11.09-11.38.51:333][994]LogLoad: Took 0.045791 seconds to LoadMap(/Game/_Developers/EliasTrevino/NewMap)
+[2023.11.09-11.38.51:355][994]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-11.38.51:356][994]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-11.38.51:356][994]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-11.38.51:357][994]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-11.38.51:358][994]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-11.38.51:358][994]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-11.38.51:359][994]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-11.38.51:359][994]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-11.38.51:360][994]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-11.38.51:360][994]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-11.38.51:361][994]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-11.38.51:361][994]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-11.38.51:362][994]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-11.38.51:363][994]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-11.38.51:364][994]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-11.38.51:365][994]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-11.38.51:365][994]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-11.38.51:366][994]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-11.38.51:366][994]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-11.38.51:367][994]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-11.38.51:368][994]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-11.38.51:368][994]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-11.38.51:369][994]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-11.38.51:369][994]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-11.38.51:369][994]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-11.38.51:370][994]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-11.38.52:713][ 47]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.09-11.38.52:713][ 47]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.11.09-11.38.55:457][159]Cmd: quit
+[2023.11.09-11.38.55:457][159]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.09-11.38.55:458][159]LogWorld: BeginTearingDown for /Game/_Developers/EliasTrevino/UEDPIE_0_NewMap
+[2023.11.09-11.38.55:459][159]LogSlate: Window 'PROJ_BrayanJamTeam2 Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.11.09-11.38.55:471][159]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.09-11.38.55:471][159]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.09-11.38.55:478][159]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.09-11.38.55:484][159]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.09-11.38.55:512][159]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.09-11.38.55:512][159]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 27
+[2023.11.09-11.38.55:512][159]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2023.11.09-11.38.55:514][159]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2023.11.09-11.38.55:523][159]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2023.11.09-11.38.55:548][159]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-11.38.55:584][160]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2023.11.09-11.39.18:983][  4]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2023.11.09-11.39.18:984][  4]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.09-11.39.20:055][ 86]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2023.11.09-11.39.20:055][ 86]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.09-11.39.20:063][ 86]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2023.11.09-11.39.20:063][ 86]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.09-11.39.25:281][537]LogSlate: Window 'MainMenu' being destroyed
+[2023.11.09-11.39.25:339][537]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2023.11.09-11.39.25:339][537]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.09-11.39.25:348][537]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2023.11.09-11.39.25:348][537]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.09-11.39.28:105][836]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.09-11.39.28:221][836]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2023.11.09-11.39.28:234][836]LogSavePackage: Moving output files for package: /Game/_Developers/MarioGomez/UI/mainmenumap
+[2023.11.09-11.39.28:234][836]LogSavePackage: Moving 'C:/Github/UNREAL/5.2/Tecnicas Texturizado/REPO_BryanJamTeam2/PROJ_BrayanJamTeam2/Saved/mainmenumap0497751F4CDCD7EBBD1391B71BBA0CAF.tmp' to 'C:/Github/UNREAL/5.2/Tecnicas Texturizado/REPO_BryanJamTeam2/PROJ_BrayanJamTeam2/Content/_Developers/MarioGomez/UI/mainmenumap.umap'
+[2023.11.09-11.39.28:240][836]LogFileHelpers: Saving map 'mainmenumap' took 0.048
+[2023.11.09-11.39.28:251][836]LogFileHelpers: InternalPromptForCheckoutAndSave took 145 ms (total: 1.59 sec)
+[2023.11.09-11.39.28:259][836]AssetCheck: New page: Asset Save: mainmenumap
+[2023.11.09-11.39.28:259][836]LogContentValidation: Display: Validating /Script/Engine.World /Game/_Developers/MarioGomez/UI/mainmenumap.mainmenumap
+[2023.11.09-11.39.28:334][845]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.09-11.39.28:450][845]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2023.11.09-11.39.28:455][845]LogSavePackage: Moving output files for package: /Game/_Developers/MarioGomez/UI/mainmenumap
+[2023.11.09-11.39.28:456][845]LogSavePackage: Moving 'C:/Github/UNREAL/5.2/Tecnicas Texturizado/REPO_BryanJamTeam2/PROJ_BrayanJamTeam2/Saved/mainmenumap65A296184523DA923C390F840D1785CB.tmp' to 'C:/Github/UNREAL/5.2/Tecnicas Texturizado/REPO_BryanJamTeam2/PROJ_BrayanJamTeam2/Content/_Developers/MarioGomez/UI/mainmenumap.umap'
+[2023.11.09-11.39.28:462][845]LogFileHelpers: Saving map 'mainmenumap' took 0.038
+[2023.11.09-11.39.28:476][845]LogFileHelpers: InternalPromptForCheckoutAndSave took 141 ms (total: 1.73 sec)
+[2023.11.09-11.39.28:481][845]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.09-11.39.28:594][845]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2023.11.09-11.39.28:600][845]LogSavePackage: Moving output files for package: /Game/_Developers/MarioGomez/UI/mainmenumap
+[2023.11.09-11.39.28:600][845]LogSavePackage: Moving 'C:/Github/UNREAL/5.2/Tecnicas Texturizado/REPO_BryanJamTeam2/PROJ_BrayanJamTeam2/Saved/mainmenumap015984784CEA2198396806B9480074DB.tmp' to 'C:/Github/UNREAL/5.2/Tecnicas Texturizado/REPO_BryanJamTeam2/PROJ_BrayanJamTeam2/Content/_Developers/MarioGomez/UI/mainmenumap.umap'
+[2023.11.09-11.39.28:606][845]LogFileHelpers: Saving map 'mainmenumap' took 0.035
+[2023.11.09-11.39.28:618][845]LogFileHelpers: InternalPromptForCheckoutAndSave took 136 ms (total: 1.87 sec)
+[2023.11.09-11.39.28:624][845]AssetCheck: New page: Asset Save: mainmenumap
+[2023.11.09-11.39.28:624][845]LogContentValidation: Display: Validating /Script/Engine.World /Game/_Developers/MarioGomez/UI/mainmenumap.mainmenumap
+[2023.11.09-11.39.33:115][349]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
