@@ -5163,3 +5163,1590 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.11.09-11.39.28:624][845]AssetCheck: New page: Asset Save: mainmenumap
 [2023.11.09-11.39.28:624][845]LogContentValidation: Display: Validating /Script/Engine.World /Game/_Developers/MarioGomez/UI/mainmenumap.mainmenumap
 [2023.11.09-11.39.33:115][349]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2023.11.09-11.43.30:544][435]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/_Developers/MarioGomez/UI/MainMenu.MainMenu
+[2023.11.09-11.43.30:545][435]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.09-11.43.30:545][435]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.09-11.43.30:552][435]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.09-11.43.30:552][435]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.09-11.45.26:681][881]LogAutomationController: Ignoring very large delta of 3.56 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.11.09-11.45.32:596][212]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2023.11.09-11.45.32:615][212]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2023.11.09-11.45.32:623][212]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2023.11.09-11.45.32:636][213]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2023.11.09-11.45.44:371][396]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> Credits
+[2023.11.09-11.45.44:384][396]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2023.11.09-11.45.46:435][580]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/_Developers/MarioGomez/UI/Credits.Credits
+[2023.11.09-11.45.46:436][580]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.09-11.45.46:436][580]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.09-11.45.46:452][580]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.09-11.45.46:452][580]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.09-11.54.06:035][509]BlueprintLog: New page: Compile Credits
+[2023.11.09-11.54.06:099][509]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2023.11.09-11.55.05:500][707]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2023.11.09-11.55.05:504][707]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/_Developers/MarioGomez/UI/mainmenumap' took 0.031
+[2023.11.09-11.55.05:505][707]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Developers/MarioGomez/UI/MainMenu] ([2] browsable assets)...
+[2023.11.09-11.55.05:509][707]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/_Developers/MarioGomez/UI/MainMenu.MainMenu]
+[2023.11.09-11.55.05:509][707]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Developers/MarioGomez/UI/MainMenu]
+[2023.11.09-11.55.05:519][707]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Developers/MarioGomez/UI/MainMenu_Auto3
+[2023.11.09-11.55.05:519][707]LogSavePackage: Moving 'C:/Github/UNREAL/5.2/Tecnicas Texturizado/REPO_BryanJamTeam2/PROJ_BrayanJamTeam2/Saved/MainMenu_Auto3CE62527A4B7BCE9D67D712B89AC12CA6.tmp' to 'C:/Github/UNREAL/5.2/Tecnicas Texturizado/REPO_BryanJamTeam2/PROJ_BrayanJamTeam2/Saved/Autosaves/Game/_Developers/MarioGomez/UI/MainMenu_Auto3.uasset'
+[2023.11.09-11.55.05:521][707]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Developers/MarioGomez/UI/Credits] ([2] browsable assets)...
+[2023.11.09-11.55.05:525][707]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/_Developers/MarioGomez/UI/Credits.Credits]
+[2023.11.09-11.55.05:525][707]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Developers/MarioGomez/UI/Credits]
+[2023.11.09-11.55.05:529][707]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Developers/MarioGomez/UI/Credits_Auto3
+[2023.11.09-11.55.05:529][707]LogSavePackage: Moving 'C:/Github/UNREAL/5.2/Tecnicas Texturizado/REPO_BryanJamTeam2/PROJ_BrayanJamTeam2/Saved/Credits_Auto398C06C87470811496BBADAB98031E53D.tmp' to 'C:/Github/UNREAL/5.2/Tecnicas Texturizado/REPO_BryanJamTeam2/PROJ_BrayanJamTeam2/Saved/Autosaves/Game/_Developers/MarioGomez/UI/Credits_Auto3.uasset'
+[2023.11.09-11.55.05:531][707]LogFileHelpers: Auto-saving content packages took 0.026
+[2023.11.09-11.56.47:332][874]BlueprintLog: New page: Compile Credits
+[2023.11.09-11.56.47:401][874]LogUObjectHash: Compacting FUObjectHashTables data took   4.69ms
+[2023.11.09-11.56.50:169][ 64]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.09-11.56.50:267][ 64]LogSavePackage: Moving output files for package: /Game/_Developers/MarioGomez/UI/MainMenu
+[2023.11.09-11.56.50:267][ 64]LogSavePackage: Moving 'C:/Github/UNREAL/5.2/Tecnicas Texturizado/REPO_BryanJamTeam2/PROJ_BrayanJamTeam2/Saved/MainMenu1982DFBF47D6D03CD267849D4BD94C12.tmp' to 'C:/Github/UNREAL/5.2/Tecnicas Texturizado/REPO_BryanJamTeam2/PROJ_BrayanJamTeam2/Content/_Developers/MarioGomez/UI/MainMenu.uasset'
+[2023.11.09-11.56.50:280][ 64]LogFileHelpers: InternalPromptForCheckoutAndSave took 111 ms (total: 1.98 sec)
+[2023.11.09-11.56.50:292][ 64]AssetCheck: New page: Asset Save: MainMenu
+[2023.11.09-11.56.50:292][ 64]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/_Developers/MarioGomez/UI/MainMenu.MainMenu
+[2023.11.09-12.00.24:989][703]LogEditorTransaction: Undo Animatable Property Changed
+[2023.11.09-12.00.25:131][703]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.00.33:228][197]LogEditorTransaction: Redo Animatable Property Changed
+[2023.11.09-12.00.33:367][197]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.02.12:567][114]LogWindows: LaunchURL https://docs.unrealengine.com/5.2/en/Engine/Blueprints?utm_source=editor&utm_medium=docs&utm_campaign=help_menu_asset
+[2023.11.09-12.02.20:079][338]LogSlate: Window 'Color Picker' being destroyed
+[2023.11.09-12.02.34:043][910]LogSlate: Window 'Color Picker' being destroyed
+[2023.11.09-12.02.50:775][562]LogDerivedDataCache: C:/Users/mario/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.246 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1529 files in 2450 folders with total size 201 MiB.
+[2023.11.09-12.03.52:594][715]BlueprintLog: New page: Compile Credits
+[2023.11.09-12.03.52:646][715]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2023.11.09-12.03.55:183][922]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.09-12.03.55:281][922]LogSavePackage: Moving output files for package: /Game/_Developers/MarioGomez/UI/Credits
+[2023.11.09-12.03.55:281][922]LogSavePackage: Moving 'C:/Github/UNREAL/5.2/Tecnicas Texturizado/REPO_BryanJamTeam2/PROJ_BrayanJamTeam2/Saved/CreditsD37C691F4163644413B2A4A58862C831.tmp' to 'C:/Github/UNREAL/5.2/Tecnicas Texturizado/REPO_BryanJamTeam2/PROJ_BrayanJamTeam2/Content/_Developers/MarioGomez/UI/Credits.uasset'
+[2023.11.09-12.03.55:297][922]LogFileHelpers: InternalPromptForCheckoutAndSave took 114 ms (total: 2.09 sec)
+[2023.11.09-12.03.55:305][922]AssetCheck: New page: Asset Save: Credits
+[2023.11.09-12.03.55:305][922]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/_Developers/MarioGomez/UI/Credits.Credits
+[2023.11.09-12.04.49:843][465]BlueprintLog: New page: Compile MainMenu
+[2023.11.09-12.04.49:882][465]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2023.11.09-12.04.56:976][126]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/_Developers/MarioGomez/UI/mainmenumap.mainmenumap:PersistentLevel.mainmenumap
+[2023.11.09-12.04.56:977][126]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.09-12.04.56:977][126]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.09-12.05.57:675][326]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2023.11.09-12.05.57:678][326]LogAssetEditorSubsystem: Opening Asset editor for World /Game/_Developers/MarioGomez/UI/mainmenumap.mainmenumap
+[2023.11.09-12.05.57:678][326]Cmd: MAP LOAD FILE="C:/Github/UNREAL/5.2/Tecnicas Texturizado/REPO_BryanJamTeam2/PROJ_BrayanJamTeam2/Content/_Developers/MarioGomez/UI/mainmenumap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.11.09-12.05.57:678][326]LightingResults: New page: Lighting Build
+[2023.11.09-12.05.57:682][326]LoadErrors: New page: Loading map: mainmenumap.umap
+[2023.11.09-12.05.57:740][326]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2023.11.09-12.05.57:740][326]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.09-12.05.57:785][326]LogWorld: UWorld::CleanupWorld for mainmenumap, bSessionEnded=true, bCleanupResources=true
+[2023.11.09-12.05.57:785][326]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.09-12.05.57:785][326]MapCheck: New page: Map Check
+[2023.11.09-12.05.57:785][326]LightingResults: New page: Lighting Build
+[2023.11.09-12.05.57:812][326]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.09-12.05.57:816][326]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2023.11.09-12.05.57:830][326]LogAudio: Display: Audio Device (ID: 1) registered with world 'mainmenumap'.
+[2023.11.09-12.05.57:830][326]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.09-12.05.57:830][326]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.09-12.05.57:831][326]LogAIModule: Creating AISystem for world mainmenumap
+[2023.11.09-12.05.57:857][326]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.11.09-12.05.57:885][326]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2023.11.09-12.05.57:891][326]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.11.09-12.05.57:892][326]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.13ms to complete.
+[2023.11.09-12.05.57:892][326]LogFileHelpers: Loading map 'mainmenumap' took 0.215
+[2023.11.09-12.05.57:905][326]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.06.05:391][145]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/_Developers/MarioGomez/UI/mainmenumap.mainmenumap:PersistentLevel.mainmenumap
+[2023.11.09-12.06.05:392][145]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.09-12.06.05:392][145]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.09-12.07.04:319][111]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2023.11.09-12.07.04:323][111]LogAssetEditorSubsystem: Opening Asset editor for World /Game/_Developers/MarioGomez/UI/mainmenumap.mainmenumap
+[2023.11.09-12.07.04:324][111]Cmd: MAP LOAD FILE="C:/Github/UNREAL/5.2/Tecnicas Texturizado/REPO_BryanJamTeam2/PROJ_BrayanJamTeam2/Content/_Developers/MarioGomez/UI/mainmenumap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.11.09-12.07.04:324][111]LightingResults: New page: Lighting Build
+[2023.11.09-12.07.04:324][111]LoadErrors: New page: Loading map: mainmenumap.umap
+[2023.11.09-12.07.04:381][111]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2023.11.09-12.07.04:381][111]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.09-12.07.04:437][111]LogWorld: UWorld::CleanupWorld for mainmenumap, bSessionEnded=true, bCleanupResources=true
+[2023.11.09-12.07.04:437][111]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.09-12.07.04:437][111]MapCheck: New page: Map Check
+[2023.11.09-12.07.04:437][111]LightingResults: New page: Lighting Build
+[2023.11.09-12.07.04:461][111]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.09-12.07.04:465][111]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2023.11.09-12.07.04:478][111]LogAudio: Display: Audio Device (ID: 1) registered with world 'mainmenumap'.
+[2023.11.09-12.07.04:478][111]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.09-12.07.04:478][111]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.09-12.07.04:479][111]LogAIModule: Creating AISystem for world mainmenumap
+[2023.11.09-12.07.04:503][111]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.11.09-12.07.04:530][111]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2023.11.09-12.07.04:536][111]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.11.09-12.07.04:536][111]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.14ms to complete.
+[2023.11.09-12.07.04:536][111]LogFileHelpers: Loading map 'mainmenumap' took 0.213
+[2023.11.09-12.07.04:549][111]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.07.08:090][512]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/_Developers/MarioGomez/UI/mainmenumap.mainmenumap:PersistentLevel.mainmenumap
+[2023.11.09-12.07.08:090][512]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.09-12.07.08:090][512]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.09-12.08.46:415][195]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/_Developers/MarioGomez/UI/PauseMenu.PauseMenu
+[2023.11.09-12.08.46:416][195]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.09-12.08.46:416][195]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.09-12.08.46:429][195]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.09-12.08.46:429][195]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.09-12.09.30:924][434]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2023.11.09-12.09.30:927][434]LogAssetEditorSubsystem: Opening Asset editor for World /Game/_Developers/MarioGomez/UI/mainmenumap.mainmenumap
+[2023.11.09-12.09.30:927][434]Cmd: MAP LOAD FILE="C:/Github/UNREAL/5.2/Tecnicas Texturizado/REPO_BryanJamTeam2/PROJ_BrayanJamTeam2/Content/_Developers/MarioGomez/UI/mainmenumap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.11.09-12.09.30:927][434]LightingResults: New page: Lighting Build
+[2023.11.09-12.09.30:927][434]LoadErrors: New page: Loading map: mainmenumap.umap
+[2023.11.09-12.09.30:991][434]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2023.11.09-12.09.30:991][434]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.09-12.09.31:035][434]LogWorld: UWorld::CleanupWorld for mainmenumap, bSessionEnded=true, bCleanupResources=true
+[2023.11.09-12.09.31:035][434]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.09-12.09.31:035][434]MapCheck: New page: Map Check
+[2023.11.09-12.09.31:035][434]LightingResults: New page: Lighting Build
+[2023.11.09-12.09.31:061][434]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.09-12.09.31:065][434]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2023.11.09-12.09.31:076][434]LogAudio: Display: Audio Device (ID: 1) registered with world 'mainmenumap'.
+[2023.11.09-12.09.31:076][434]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.09-12.09.31:076][434]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.09-12.09.31:076][434]LogAIModule: Creating AISystem for world mainmenumap
+[2023.11.09-12.09.31:099][434]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.11.09-12.09.31:126][434]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2023.11.09-12.09.31:132][434]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.11.09-12.09.31:132][434]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.144ms to complete.
+[2023.11.09-12.09.31:132][434]LogFileHelpers: Loading map 'mainmenumap' took 0.205
+[2023.11.09-12.09.31:148][434]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.09.34:302][798]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.11.09-12.09.34:311][798]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.09-12.09.34:312][798]PIE: New page: PIE session: mainmenumap (Nov 9, 2023, 12:09:34 AM)
+[2023.11.09-12.09.34:312][798]LogPlayLevel: Creating play world package: /Game/_Developers/MarioGomez/UI/UEDPIE_0_mainmenumap
+[2023.11.09-12.09.34:313][798]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001400s)
+[2023.11.09-12.09.34:313][798]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Developers/MarioGomez/UI/mainmenumap.mainmenumap to /Game/_Developers/MarioGomez/UI/UEDPIE_0_mainmenumap.mainmenumap (0.001458s)
+[2023.11.09-12.09.34:313][798]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.09-12.09.34:314][798]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.09-12.09.34:314][798]LogAIModule: Creating AISystem for world mainmenumap
+[2023.11.09-12.09.34:314][798]LogPlayLevel: PIE: World Init took: (0.001020s)
+[2023.11.09-12.09.34:340][798]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2023.11.09-12.09.34:342][798]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2023.11.09-12.09.34:342][798]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.09-12.09.34:342][798]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.09-12.09.34:342][798]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.09-12.09.34:342][798]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.09-12.09.34:342][798]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.09-12.09.34:342][798]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.09-12.09.34:342][798]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.09-12.09.34:342][798]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.09-12.09.34:343][798]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.09-12.09.34:343][798]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.09-12.09.34:343][798]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.09-12.09.34:346][798]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.09-12.09.34:381][798]LogAudioMixer: Display: Using Audio Hardware Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2023.11.09-12.09.34:382][798]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.09-12.09.34:382][798]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.09-12.09.34:382][798]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.09-12.09.34:382][798]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=28
+[2023.11.09-12.09.34:382][798]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=28
+[2023.11.09-12.09.34:385][798]LogInit: FAudioDevice initialized with ID 28.
+[2023.11.09-12.09.34:385][798]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=28
+[2023.11.09-12.09.34:385][798]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=28
+[2023.11.09-12.09.34:385][798]LogAudio: Display: Audio Device (ID: 28) registered with world 'mainmenumap'.
+[2023.11.09-12.09.34:385][798]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 28
+[2023.11.09-12.09.34:435][798]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.09-12.09.34:436][798]LogLoad: Game class is 'MenuGameMode_C'
+[2023.11.09-12.09.34:436][798]LogWorld: Bringing World /Game/_Developers/MarioGomez/UI/UEDPIE_0_mainmenumap.mainmenumap up for play (max tick rate 0) at 2023.11.09-06.09.34
+[2023.11.09-12.09.34:436][798]LogWorld: Bringing up level for play took: 0.000615
+[2023.11.09-12.09.34:440][798]LogOnline: OSS: Created online subsystem instance for: :Context_60
+[2023.11.09-12.09.34:443][798]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.09-12.09.34:443][798]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.11.09-12.09.34:455][798]PIE: Server logged in
+[2023.11.09-12.09.34:458][798]PIE: Play in editor total start time 0.148 seconds.
+[2023.11.09-12.09.34:487][798]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.09.34:487][798]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.09.34:488][798]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.09.34:488][798]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.09.34:489][798]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.09.34:489][798]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.09.34:489][798]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.09.34:490][798]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.09.34:491][798]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.09.34:491][798]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.09.34:491][798]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.09.34:492][798]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.09.34:493][798]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.11.09-12.09.38:422][108]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.09-12.09.38:422][108]LogWorld: BeginTearingDown for /Game/_Developers/MarioGomez/UI/UEDPIE_0_mainmenumap
+[2023.11.09-12.09.38:424][108]LogSlate: Window 'PROJ_BrayanJamTeam2 Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.11.09-12.09.38:431][108]LogWorld: UWorld::CleanupWorld for mainmenumap, bSessionEnded=true, bCleanupResources=true
+[2023.11.09-12.09.38:431][108]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.09-12.09.38:435][108]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.09-12.09.38:440][108]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.09-12.09.38:466][108]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.09-12.09.38:466][108]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 28
+[2023.11.09-12.09.38:466][108]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2023.11.09-12.09.38:469][108]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2023.11.09-12.09.38:480][108]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2023.11.09-12.09.38:498][108]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.09.38:512][109]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2023.11.09-12.09.43:548][683]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.11.09-12.09.43:557][683]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.09-12.09.43:557][683]PIE: New page: PIE session: mainmenumap (Nov 9, 2023, 12:09:43 AM)
+[2023.11.09-12.09.43:557][683]LogPlayLevel: Creating play world package: /Game/_Developers/MarioGomez/UI/UEDPIE_0_mainmenumap
+[2023.11.09-12.09.43:558][683]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001119s)
+[2023.11.09-12.09.43:558][683]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Developers/MarioGomez/UI/mainmenumap.mainmenumap to /Game/_Developers/MarioGomez/UI/UEDPIE_0_mainmenumap.mainmenumap (0.001159s)
+[2023.11.09-12.09.43:558][683]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.09-12.09.43:558][683]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.09-12.09.43:559][683]LogAIModule: Creating AISystem for world mainmenumap
+[2023.11.09-12.09.43:559][683]LogPlayLevel: PIE: World Init took: (0.000837s)
+[2023.11.09-12.09.43:585][683]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2023.11.09-12.09.43:588][683]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2023.11.09-12.09.43:588][683]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.09-12.09.43:588][683]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.09-12.09.43:588][683]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.09-12.09.43:588][683]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.09-12.09.43:588][683]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.09-12.09.43:588][683]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.09-12.09.43:588][683]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.09-12.09.43:588][683]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.09-12.09.43:589][683]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.09-12.09.43:589][683]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.09-12.09.43:589][683]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.09-12.09.43:591][683]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.09-12.09.43:628][683]LogAudioMixer: Display: Using Audio Hardware Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2023.11.09-12.09.43:628][683]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.09-12.09.43:628][683]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.09-12.09.43:628][683]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.09-12.09.43:629][683]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=29
+[2023.11.09-12.09.43:629][683]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=29
+[2023.11.09-12.09.43:632][683]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=29
+[2023.11.09-12.09.43:632][683]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=29
+[2023.11.09-12.09.43:632][683]LogInit: FAudioDevice initialized with ID 29.
+[2023.11.09-12.09.43:632][683]LogAudio: Display: Audio Device (ID: 29) registered with world 'mainmenumap'.
+[2023.11.09-12.09.43:632][683]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 29
+[2023.11.09-12.09.43:696][683]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.09-12.09.43:696][683]LogLoad: Game class is 'MenuGameMode_C'
+[2023.11.09-12.09.43:697][683]LogWorld: Bringing World /Game/_Developers/MarioGomez/UI/UEDPIE_0_mainmenumap.mainmenumap up for play (max tick rate 0) at 2023.11.09-06.09.43
+[2023.11.09-12.09.43:697][683]LogWorld: Bringing up level for play took: 0.000494
+[2023.11.09-12.09.43:700][683]LogOnline: OSS: Created online subsystem instance for: :Context_61
+[2023.11.09-12.09.43:702][683]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.09-12.09.43:702][683]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.11.09-12.09.43:708][683]PIE: Server logged in
+[2023.11.09-12.09.43:715][683]PIE: Play in editor total start time 0.158 seconds.
+[2023.11.09-12.09.43:765][683]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.09.43:766][683]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.09.43:766][683]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.09.43:767][683]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.09.43:768][683]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.09.43:768][683]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.09.43:769][683]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.09.43:769][683]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.09.43:770][683]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.09.43:770][683]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.09.43:771][683]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.09.43:771][683]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.09.43:772][683]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.11.09-12.09.45:281][791]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.09-12.09.45:281][791]LogWorld: BeginTearingDown for /Game/_Developers/MarioGomez/UI/UEDPIE_0_mainmenumap
+[2023.11.09-12.09.45:282][791]LogSlate: Window 'PROJ_BrayanJamTeam2 Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.11.09-12.09.45:291][791]LogWorld: UWorld::CleanupWorld for mainmenumap, bSessionEnded=true, bCleanupResources=true
+[2023.11.09-12.09.45:291][791]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.09-12.09.45:295][791]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.09-12.09.45:301][791]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.09-12.09.45:327][791]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.09-12.09.45:327][791]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 29
+[2023.11.09-12.09.45:327][791]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2023.11.09-12.09.45:330][791]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2023.11.09-12.09.45:339][791]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2023.11.09-12.09.45:359][791]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.09.45:377][792]LogPlayLevel: Display: Destroying online subsystem :Context_61
+[2023.11.09-12.12.07:131][988]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.11.09-12.12.07:140][988]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.11.09-12.12.07:141][988]LogPlayLevel: [PlayLevel] Compiling MainMenu before play...
+[2023.11.09-12.12.07:221][988]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2023.11.09-12.12.07:223][988]LogPlayLevel: PlayLevel: Blueprint regeneration took 83 ms (1 blueprints)
+[2023.11.09-12.12.07:223][988]PIE: New page: PIE session: mainmenumap (Nov 9, 2023, 12:12:07 AM)
+[2023.11.09-12.12.07:223][988]LogPlayLevel: Creating play world package: /Game/_Developers/MarioGomez/UI/UEDPIE_0_mainmenumap
+[2023.11.09-12.12.07:225][988]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001621s)
+[2023.11.09-12.12.07:225][988]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Developers/MarioGomez/UI/mainmenumap.mainmenumap to /Game/_Developers/MarioGomez/UI/UEDPIE_0_mainmenumap.mainmenumap (0.001671s)
+[2023.11.09-12.12.07:225][988]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.09-12.12.07:225][988]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.09-12.12.07:225][988]LogAIModule: Creating AISystem for world mainmenumap
+[2023.11.09-12.12.07:226][988]LogPlayLevel: PIE: World Init took: (0.001201s)
+[2023.11.09-12.12.07:254][988]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2023.11.09-12.12.07:256][988]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2023.11.09-12.12.07:256][988]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.09-12.12.07:256][988]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.09-12.12.07:256][988]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.09-12.12.07:256][988]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.09-12.12.07:256][988]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.09-12.12.07:256][988]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.09-12.12.07:256][988]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.09-12.12.07:256][988]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.09-12.12.07:258][988]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.09-12.12.07:258][988]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.09-12.12.07:258][988]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.09-12.12.07:261][988]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.09-12.12.07:298][988]LogAudioMixer: Display: Using Audio Hardware Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2023.11.09-12.12.07:298][988]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.09-12.12.07:298][988]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.09-12.12.07:298][988]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.09-12.12.07:298][988]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=30
+[2023.11.09-12.12.07:298][988]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=30
+[2023.11.09-12.12.07:300][988]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=30
+[2023.11.09-12.12.07:301][988]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=30
+[2023.11.09-12.12.07:301][988]LogInit: FAudioDevice initialized with ID 30.
+[2023.11.09-12.12.07:301][988]LogAudio: Display: Audio Device (ID: 30) registered with world 'mainmenumap'.
+[2023.11.09-12.12.07:301][988]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 30
+[2023.11.09-12.12.07:356][988]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.09-12.12.07:357][988]LogLoad: Game class is 'MenuGameMode_C'
+[2023.11.09-12.12.07:357][988]LogWorld: Bringing World /Game/_Developers/MarioGomez/UI/UEDPIE_0_mainmenumap.mainmenumap up for play (max tick rate 0) at 2023.11.09-06.12.07
+[2023.11.09-12.12.07:357][988]LogWorld: Bringing up level for play took: 0.000485
+[2023.11.09-12.12.07:361][988]LogOnline: OSS: Created online subsystem instance for: :Context_62
+[2023.11.09-12.12.07:363][988]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.09-12.12.07:363][988]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.11.09-12.12.07:366][988]PIE: Server logged in
+[2023.11.09-12.12.07:369][988]PIE: Play in editor total start time 0.23 seconds.
+[2023.11.09-12.12.07:414][988]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.12.07:415][988]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.12.07:415][988]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.12.07:416][988]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.12.07:416][988]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.12.07:417][988]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.12.07:417][988]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.12.07:418][988]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.12.07:418][988]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.12.07:419][988]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.12.07:419][988]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.12.07:419][988]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.12.07:451][988]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.11.09-12.12.09:382][ 84]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.11.09-12.12.09:382][ 84]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.11.09-12.12.09:383][ 84]LogNet: Browse: /Game/_Developers/EliasTrevino/NewMap
+[2023.11.09-12.12.09:383][ 84]LogLoad: LoadMap: /Game/_Developers/EliasTrevino/NewMap
+[2023.11.09-12.12.09:383][ 84]LogWorld: BeginTearingDown for /Game/_Developers/MarioGomez/UI/UEDPIE_0_mainmenumap
+[2023.11.09-12.12.09:384][ 84]LogWorld: UWorld::CleanupWorld for mainmenumap, bSessionEnded=true, bCleanupResources=true
+[2023.11.09-12.12.09:384][ 84]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.09-12.12.09:436][ 84]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.09-12.12.09:439][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2023.11.09-12.12.09:450][ 84]LogAudio: Display: Audio Device (ID: 30) registered with world 'NewMap'.
+[2023.11.09-12.12.09:450][ 84]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.09-12.12.09:450][ 84]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.09-12.12.09:450][ 84]LogAIModule: Creating AISystem for world NewMap
+[2023.11.09-12.12.09:451][ 84]LogPlayLevel: PIE: World Init took: (0.001060s)
+[2023.11.09-12.12.09:451][ 84]LogLoad: Game class is 'GM_JamBlueprint_C'
+[2023.11.09-12.12.09:458][ 84]LogWorld: Bringing World /Game/_Developers/EliasTrevino/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2023.11.09-06.12.09
+[2023.11.09-12.12.09:459][ 84]LogWorld: Bringing up level for play took: 0.007776
+[2023.11.09-12.12.09:462][ 84]LogLoad: Took 0.078980 seconds to LoadMap(/Game/_Developers/EliasTrevino/NewMap)
+[2023.11.09-12.12.09:480][ 84]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.12.09:481][ 84]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.12.09:482][ 84]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.12.09:482][ 84]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.12.09:483][ 84]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.12.09:483][ 84]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.12.09:484][ 84]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.12.09:484][ 84]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.12.09:485][ 84]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.12.09:485][ 84]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.12.09:486][ 84]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.12.09:486][ 84]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.12.09:487][ 84]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.12.09:488][ 84]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.12.09:490][ 84]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.12.09:491][ 84]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.12.09:492][ 84]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.12.09:492][ 84]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.12.09:492][ 84]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.12.09:493][ 84]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.12.09:493][ 84]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.12.09:494][ 84]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.12.09:494][ 84]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.12.09:495][ 84]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.12.09:495][ 84]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.12.09:496][ 84]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.12.10:642][145]LogBlueprintUserMessages: [BP_EduardoCharacterTest_C_0] InputPressed
+[2023.11.09-12.12.10:642][145]LogBlueprintUserMessages: [BP_Circuit_C_1] SetMesh0
+[2023.11.09-12.12.10:642][145]LogBlueprintUserMessages: [BP_Circuit_C_1] false
+[2023.11.09-12.12.11:400][189]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.09-12.12.11:400][189]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.11.09-12.12.12:480][244]LogNet: Browse: /Game/_Developers/MarioGomez/UI/mainmenumap
+[2023.11.09-12.12.12:480][244]LogLoad: LoadMap: /Game/_Developers/MarioGomez/UI/mainmenumap
+[2023.11.09-12.12.12:480][244]LogWorld: BeginTearingDown for /Game/_Developers/EliasTrevino/UEDPIE_0_NewMap
+[2023.11.09-12.12.12:481][244]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.09-12.12.12:482][244]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.09-12.12.12:509][244]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.09-12.12.12:511][244]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2023.11.09-12.12.12:515][244]LogPlayLevel: Creating play world package: /Game/_Developers/MarioGomez/UI/UEDPIE_0_mainmenumap
+[2023.11.09-12.12.12:517][244]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001400s)
+[2023.11.09-12.12.12:517][244]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Developers/MarioGomez/UI/mainmenumap.mainmenumap to /Game/_Developers/MarioGomez/UI/UEDPIE_0_mainmenumap.mainmenumap (0.001462s)
+[2023.11.09-12.12.12:517][244]LogAudio: Display: Audio Device (ID: 30) registered with world 'mainmenumap'.
+[2023.11.09-12.12.12:517][244]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.09-12.12.12:517][244]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.09-12.12.12:517][244]LogAIModule: Creating AISystem for world mainmenumap
+[2023.11.09-12.12.12:518][244]LogPlayLevel: PIE: World Init took: (0.001119s)
+[2023.11.09-12.12.12:518][244]LogLoad: Game class is 'MenuGameMode_C'
+[2023.11.09-12.12.12:518][244]LogWorld: Bringing World /Game/_Developers/MarioGomez/UI/UEDPIE_0_mainmenumap.mainmenumap up for play (max tick rate 0) at 2023.11.09-06.12.12
+[2023.11.09-12.12.12:518][244]LogWorld: Bringing up level for play took: 0.000493
+[2023.11.09-12.12.12:519][244]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.11.09-12.12.12:521][244]LogLoad: Took 0.040586 seconds to LoadMap(/Game/_Developers/MarioGomez/UI/UEDPIE_0_mainmenumap)
+[2023.11.09-12.12.12:534][244]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.12.12:534][244]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.12.12:535][244]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.12.12:536][244]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.12.12:536][244]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.12.12:536][244]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.12.12:537][244]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.12.12:538][244]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.12.12:538][244]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.12.12:539][244]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.12.12:539][244]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.12.27:202][124]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.09-12.12.27:202][124]LogWorld: BeginTearingDown for /Game/_Developers/MarioGomez/UI/UEDPIE_0_mainmenumap
+[2023.11.09-12.12.27:204][124]LogSlate: Window 'PROJ_BrayanJamTeam2 Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.11.09-12.12.27:212][124]LogWorld: UWorld::CleanupWorld for mainmenumap, bSessionEnded=true, bCleanupResources=true
+[2023.11.09-12.12.27:212][124]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.09-12.12.27:215][124]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.09-12.12.27:220][124]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.09-12.12.27:244][124]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 30
+[2023.11.09-12.12.27:244][124]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2023.11.09-12.12.27:247][124]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2023.11.09-12.12.27:255][124]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2023.11.09-12.12.27:275][124]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.12.27:292][125]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2023.11.09-12.12.35:308][764]BlueprintLog: New page: Compile MainMenu
+[2023.11.09-12.12.35:355][764]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2023.11.09-12.12.55:402][651]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.09-12.12.55:509][651]LogSavePackage: Moving output files for package: /Game/_Developers/MarioGomez/UI/MainMenu
+[2023.11.09-12.12.55:510][651]LogSavePackage: Moving 'C:/Github/UNREAL/5.2/Tecnicas Texturizado/REPO_BryanJamTeam2/PROJ_BrayanJamTeam2/Saved/MainMenu15120FFD4EBE7283A669A4A4BFAAE60A.tmp' to 'C:/Github/UNREAL/5.2/Tecnicas Texturizado/REPO_BryanJamTeam2/PROJ_BrayanJamTeam2/Content/_Developers/MarioGomez/UI/MainMenu.uasset'
+[2023.11.09-12.12.55:523][651]LogFileHelpers: InternalPromptForCheckoutAndSave took 121 ms (total: 2.22 sec)
+[2023.11.09-12.12.55:531][651]AssetCheck: New page: Asset Save: MainMenu
+[2023.11.09-12.12.55:531][651]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/_Developers/MarioGomez/UI/MainMenu.MainMenu
+[2023.11.09-12.12.59:110][960]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.11.09-12.12.59:118][960]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.09-12.12.59:119][960]PIE: New page: PIE session: mainmenumap (Nov 9, 2023, 12:12:59 AM)
+[2023.11.09-12.12.59:119][960]LogPlayLevel: Creating play world package: /Game/_Developers/MarioGomez/UI/UEDPIE_0_mainmenumap
+[2023.11.09-12.12.59:121][960]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002257s)
+[2023.11.09-12.12.59:121][960]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Developers/MarioGomez/UI/mainmenumap.mainmenumap to /Game/_Developers/MarioGomez/UI/UEDPIE_0_mainmenumap.mainmenumap (0.002314s)
+[2023.11.09-12.12.59:122][960]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.09-12.12.59:122][960]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.09-12.12.59:122][960]LogAIModule: Creating AISystem for world mainmenumap
+[2023.11.09-12.12.59:122][960]LogPlayLevel: PIE: World Init took: (0.001074s)
+[2023.11.09-12.12.59:149][960]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2023.11.09-12.12.59:151][960]LogAudio: Display: Creating Audio Device:                 Id: 31, Scope: Unique, Realtime: True
+[2023.11.09-12.12.59:151][960]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.09-12.12.59:151][960]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.09-12.12.59:151][960]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.09-12.12.59:151][960]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.09-12.12.59:151][960]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.09-12.12.59:151][960]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.09-12.12.59:151][960]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.09-12.12.59:151][960]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.09-12.12.59:152][960]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.09-12.12.59:152][960]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.09-12.12.59:152][960]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.09-12.12.59:153][960]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.09-12.12.59:188][960]LogAudioMixer: Display: Using Audio Hardware Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2023.11.09-12.12.59:188][960]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.09-12.12.59:188][960]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.09-12.12.59:188][960]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.09-12.12.59:189][960]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=31
+[2023.11.09-12.12.59:189][960]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=31
+[2023.11.09-12.12.59:193][960]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=31
+[2023.11.09-12.12.59:193][960]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=31
+[2023.11.09-12.12.59:193][960]LogInit: FAudioDevice initialized with ID 31.
+[2023.11.09-12.12.59:193][960]LogAudio: Display: Audio Device (ID: 31) registered with world 'mainmenumap'.
+[2023.11.09-12.12.59:193][960]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 31
+[2023.11.09-12.12.59:229][960]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.09-12.12.59:229][960]LogLoad: Game class is 'MenuGameMode_C'
+[2023.11.09-12.12.59:229][960]LogWorld: Bringing World /Game/_Developers/MarioGomez/UI/UEDPIE_0_mainmenumap.mainmenumap up for play (max tick rate 0) at 2023.11.09-06.12.59
+[2023.11.09-12.12.59:230][960]LogWorld: Bringing up level for play took: 0.000403
+[2023.11.09-12.12.59:232][960]LogOnline: OSS: Created online subsystem instance for: :Context_63
+[2023.11.09-12.12.59:235][960]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.09-12.12.59:235][960]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.11.09-12.12.59:239][960]PIE: Server logged in
+[2023.11.09-12.12.59:245][960]PIE: Play in editor total start time 0.126 seconds.
+[2023.11.09-12.12.59:275][960]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.12.59:275][960]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.12.59:276][960]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.12.59:276][960]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.12.59:277][960]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.12.59:277][960]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.12.59:278][960]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.12.59:278][960]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.12.59:279][960]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.12.59:279][960]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.12.59:279][960]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.12.59:280][960]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.12.59:283][960]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.11.09-12.13.09:803][694]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.09-12.13.09:803][694]LogWorld: BeginTearingDown for /Game/_Developers/MarioGomez/UI/UEDPIE_0_mainmenumap
+[2023.11.09-12.13.09:804][694]LogSlate: Window 'PROJ_BrayanJamTeam2 Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.11.09-12.13.09:815][694]LogWorld: UWorld::CleanupWorld for mainmenumap, bSessionEnded=true, bCleanupResources=true
+[2023.11.09-12.13.09:816][694]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.09-12.13.09:818][694]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.09-12.13.09:823][694]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.09-12.13.09:848][694]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.09-12.13.09:849][694]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 31
+[2023.11.09-12.13.09:849][694]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31
+[2023.11.09-12.13.09:850][694]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31
+[2023.11.09-12.13.09:858][694]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2023.11.09-12.13.09:875][694]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.13.09:891][695]LogPlayLevel: Display: Destroying online subsystem :Context_63
+[2023.11.09-12.13.24:762][219]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2023.11.09-12.13.24:764][219]LogAssetEditorSubsystem: Opening Asset editor for World /Game/_Developers/MarioGomez/UI/mainmenumap.mainmenumap
+[2023.11.09-12.13.24:765][219]Cmd: MAP LOAD FILE="C:/Github/UNREAL/5.2/Tecnicas Texturizado/REPO_BryanJamTeam2/PROJ_BrayanJamTeam2/Content/_Developers/MarioGomez/UI/mainmenumap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.11.09-12.13.24:765][219]LightingResults: New page: Lighting Build
+[2023.11.09-12.13.24:765][219]LoadErrors: New page: Loading map: mainmenumap.umap
+[2023.11.09-12.13.24:766][219]LogWorld: UWorld::CleanupWorld for mainmenumap, bSessionEnded=true, bCleanupResources=true
+[2023.11.09-12.13.24:767][219]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.09-12.13.24:767][219]MapCheck: New page: Map Check
+[2023.11.09-12.13.24:767][219]LightingResults: New page: Lighting Build
+[2023.11.09-12.13.24:790][219]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.09-12.13.24:792][219]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2023.11.09-12.13.24:802][219]LogAudio: Display: Audio Device (ID: 1) registered with world 'mainmenumap'.
+[2023.11.09-12.13.24:802][219]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.09-12.13.24:802][219]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.09-12.13.24:803][219]LogAIModule: Creating AISystem for world mainmenumap
+[2023.11.09-12.13.24:826][219]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.11.09-12.13.24:853][219]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2023.11.09-12.13.24:858][219]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.11.09-12.13.24:858][219]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.145ms to complete.
+[2023.11.09-12.13.24:859][219]LogFileHelpers: Loading map 'mainmenumap' took 0.094
+[2023.11.09-12.13.24:870][219]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.14.04:329][281]BlueprintLog: New page: Compile MainMenu
+[2023.11.09-12.14.04:387][281]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2023.11.09-12.16.30:364][636]LogSlate: Window 'Color Picker' being destroyed
+[2023.11.09-12.16.44:107][413]LogSlate: Window 'Color Picker' being destroyed
+[2023.11.09-12.16.50:269][753]LogSlate: Window 'Color Picker' being destroyed
+[2023.11.09-12.16.59:163][267]LogSlate: Window 'Color Picker' being destroyed
+[2023.11.09-12.21.26:099][916]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.09-12.21.26:226][916]LogSavePackage: Moving output files for package: /Game/_Developers/MarioGomez/UI/Credits
+[2023.11.09-12.21.26:227][916]LogSavePackage: Moving 'C:/Github/UNREAL/5.2/Tecnicas Texturizado/REPO_BryanJamTeam2/PROJ_BrayanJamTeam2/Saved/CreditsCF67111540D68E5D6B0478867B1AA886.tmp' to 'C:/Github/UNREAL/5.2/Tecnicas Texturizado/REPO_BryanJamTeam2/PROJ_BrayanJamTeam2/Content/_Developers/MarioGomez/UI/Credits.uasset'
+[2023.11.09-12.21.26:240][916]LogFileHelpers: InternalPromptForCheckoutAndSave took 140 ms (total: 2.36 sec)
+[2023.11.09-12.21.26:257][916]AssetCheck: New page: Asset Save: Credits
+[2023.11.09-12.21.26:257][916]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/_Developers/MarioGomez/UI/Credits.Credits
+[2023.11.09-12.23.50:096][219]BlueprintLog: New page: Compile MainMenu
+[2023.11.09-12.23.50:153][219]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2023.11.09-12.23.51:748][324]BlueprintLog: New page: Compile Credits
+[2023.11.09-12.23.51:821][324]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2023.11.09-12.23.54:716][536]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.09-12.23.54:830][536]LogSavePackage: Moving output files for package: /Game/_Developers/MarioGomez/UI/MainMenu
+[2023.11.09-12.23.54:831][536]LogSavePackage: Moving 'C:/Github/UNREAL/5.2/Tecnicas Texturizado/REPO_BryanJamTeam2/PROJ_BrayanJamTeam2/Saved/MainMenu181BFFE748390EA89FEDC182AE6661EE.tmp' to 'C:/Github/UNREAL/5.2/Tecnicas Texturizado/REPO_BryanJamTeam2/PROJ_BrayanJamTeam2/Content/_Developers/MarioGomez/UI/MainMenu.uasset'
+[2023.11.09-12.23.54:844][536]LogFileHelpers: InternalPromptForCheckoutAndSave took 129 ms (total: 2.49 sec)
+[2023.11.09-12.23.54:852][536]AssetCheck: New page: Asset Save: MainMenu
+[2023.11.09-12.23.54:852][536]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/_Developers/MarioGomez/UI/MainMenu.MainMenu
+[2023.11.09-12.23.57:898][828]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.11.09-12.23.57:906][828]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.09-12.23.57:906][828]PIE: New page: PIE session: mainmenumap (Nov 9, 2023, 12:23:57 AM)
+[2023.11.09-12.23.57:907][828]LogPlayLevel: Creating play world package: /Game/_Developers/MarioGomez/UI/UEDPIE_0_mainmenumap
+[2023.11.09-12.23.57:908][828]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001582s)
+[2023.11.09-12.23.57:908][828]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Developers/MarioGomez/UI/mainmenumap.mainmenumap to /Game/_Developers/MarioGomez/UI/UEDPIE_0_mainmenumap.mainmenumap (0.001644s)
+[2023.11.09-12.23.57:909][828]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.09-12.23.57:909][828]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.09-12.23.57:909][828]LogAIModule: Creating AISystem for world mainmenumap
+[2023.11.09-12.23.57:910][828]LogPlayLevel: PIE: World Init took: (0.001628s)
+[2023.11.09-12.23.57:936][828]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2023.11.09-12.23.57:938][828]LogAudio: Display: Creating Audio Device:                 Id: 32, Scope: Unique, Realtime: True
+[2023.11.09-12.23.57:938][828]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.09-12.23.57:939][828]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.09-12.23.57:939][828]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.09-12.23.57:939][828]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.09-12.23.57:939][828]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.09-12.23.57:939][828]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.09-12.23.57:939][828]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.09-12.23.57:939][828]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.09-12.23.57:939][828]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.09-12.23.57:939][828]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.09-12.23.57:939][828]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.09-12.23.57:942][828]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.09-12.23.57:977][828]LogAudioMixer: Display: Using Audio Hardware Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2023.11.09-12.23.57:977][828]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.09-12.23.57:977][828]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.09-12.23.57:977][828]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.09-12.23.57:978][828]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=32
+[2023.11.09-12.23.57:978][828]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=32
+[2023.11.09-12.23.57:981][828]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=32
+[2023.11.09-12.23.57:981][828]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=32
+[2023.11.09-12.23.57:981][828]LogInit: FAudioDevice initialized with ID 32.
+[2023.11.09-12.23.57:981][828]LogAudio: Display: Audio Device (ID: 32) registered with world 'mainmenumap'.
+[2023.11.09-12.23.57:981][828]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 32
+[2023.11.09-12.23.58:041][828]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.09-12.23.58:041][828]LogLoad: Game class is 'MenuGameMode_C'
+[2023.11.09-12.23.58:042][828]LogWorld: Bringing World /Game/_Developers/MarioGomez/UI/UEDPIE_0_mainmenumap.mainmenumap up for play (max tick rate 0) at 2023.11.09-06.23.58
+[2023.11.09-12.23.58:042][828]LogWorld: Bringing up level for play took: 0.000581
+[2023.11.09-12.23.58:045][828]LogOnline: OSS: Created online subsystem instance for: :Context_64
+[2023.11.09-12.23.58:048][828]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.09-12.23.58:048][828]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.11.09-12.23.58:054][828]PIE: Server logged in
+[2023.11.09-12.23.58:059][828]PIE: Play in editor total start time 0.152 seconds.
+[2023.11.09-12.23.58:087][828]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.23.58:087][828]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.23.58:088][828]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.23.58:088][828]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.23.58:089][828]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.23.58:089][828]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.23.58:089][828]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.23.58:090][828]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.23.58:092][828]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.23.58:092][828]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.23.58:093][828]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.23.58:093][828]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.23.58:095][828]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.11.09-12.24.15:797][357]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.09-12.24.15:797][357]LogWorld: BeginTearingDown for /Game/_Developers/MarioGomez/UI/UEDPIE_0_mainmenumap
+[2023.11.09-12.24.15:799][357]LogSlate: Window 'PROJ_BrayanJamTeam2 Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.11.09-12.24.15:809][357]LogWorld: UWorld::CleanupWorld for mainmenumap, bSessionEnded=true, bCleanupResources=true
+[2023.11.09-12.24.15:809][357]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.09-12.24.15:812][357]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.09-12.24.15:818][357]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.09-12.24.15:842][357]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.09-12.24.15:842][357]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 32
+[2023.11.09-12.24.15:842][357]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32
+[2023.11.09-12.24.15:845][357]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32
+[2023.11.09-12.24.15:852][357]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2023.11.09-12.24.15:868][357]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.24.15:888][358]LogPlayLevel: Display: Destroying online subsystem :Context_64
+[2023.11.09-12.24.54:662][369]BlueprintLog: New page: Compile Credits
+[2023.11.09-12.24.54:744][369]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2023.11.09-12.24.56:487][488]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.11.09-12.24.56:495][488]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.09-12.24.56:495][488]PIE: New page: PIE session: mainmenumap (Nov 9, 2023, 12:24:56 AM)
+[2023.11.09-12.24.56:495][488]LogPlayLevel: Creating play world package: /Game/_Developers/MarioGomez/UI/UEDPIE_0_mainmenumap
+[2023.11.09-12.24.56:497][488]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001300s)
+[2023.11.09-12.24.56:497][488]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Developers/MarioGomez/UI/mainmenumap.mainmenumap to /Game/_Developers/MarioGomez/UI/UEDPIE_0_mainmenumap.mainmenumap (0.001343s)
+[2023.11.09-12.24.56:497][488]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.09-12.24.56:497][488]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.09-12.24.56:497][488]LogAIModule: Creating AISystem for world mainmenumap
+[2023.11.09-12.24.56:498][488]LogPlayLevel: PIE: World Init took: (0.000975s)
+[2023.11.09-12.24.56:525][488]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2023.11.09-12.24.56:528][488]LogAudio: Display: Creating Audio Device:                 Id: 33, Scope: Unique, Realtime: True
+[2023.11.09-12.24.56:529][488]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.09-12.24.56:529][488]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.09-12.24.56:529][488]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.09-12.24.56:529][488]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.09-12.24.56:529][488]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.09-12.24.56:529][488]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.09-12.24.56:529][488]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.09-12.24.56:529][488]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.09-12.24.56:529][488]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.09-12.24.56:529][488]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.09-12.24.56:529][488]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.09-12.24.56:532][488]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.09-12.24.56:571][488]LogAudioMixer: Display: Using Audio Hardware Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2023.11.09-12.24.56:571][488]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.09-12.24.56:571][488]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.09-12.24.56:571][488]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.09-12.24.56:571][488]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=33
+[2023.11.09-12.24.56:571][488]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=33
+[2023.11.09-12.24.56:576][488]LogInit: FAudioDevice initialized with ID 33.
+[2023.11.09-12.24.56:576][488]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=33
+[2023.11.09-12.24.56:576][488]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=33
+[2023.11.09-12.24.56:576][488]LogAudio: Display: Audio Device (ID: 33) registered with world 'mainmenumap'.
+[2023.11.09-12.24.56:576][488]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 33
+[2023.11.09-12.24.56:627][488]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.09-12.24.56:628][488]LogLoad: Game class is 'MenuGameMode_C'
+[2023.11.09-12.24.56:629][488]LogWorld: Bringing World /Game/_Developers/MarioGomez/UI/UEDPIE_0_mainmenumap.mainmenumap up for play (max tick rate 0) at 2023.11.09-06.24.56
+[2023.11.09-12.24.56:629][488]LogWorld: Bringing up level for play took: 0.000513
+[2023.11.09-12.24.56:632][488]LogOnline: OSS: Created online subsystem instance for: :Context_65
+[2023.11.09-12.24.56:634][488]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.09-12.24.56:634][488]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.11.09-12.24.56:639][488]PIE: Server logged in
+[2023.11.09-12.24.56:645][488]PIE: Play in editor total start time 0.15 seconds.
+[2023.11.09-12.24.56:678][488]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.24.56:679][488]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.24.56:679][488]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.24.56:679][488]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.24.56:680][488]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.24.56:680][488]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.24.56:681][488]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.24.56:681][488]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.24.56:682][488]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.24.56:682][488]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.24.56:683][488]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.24.56:683][488]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.24.56:687][488]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.11.09-12.25.09:427][212]Cmd: quit
+[2023.11.09-12.25.09:427][212]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.09-12.25.09:428][212]LogWorld: BeginTearingDown for /Game/_Developers/MarioGomez/UI/UEDPIE_0_mainmenumap
+[2023.11.09-12.25.09:429][212]LogSlate: Window 'PROJ_BrayanJamTeam2 Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.11.09-12.25.09:478][212]LogWorld: UWorld::CleanupWorld for mainmenumap, bSessionEnded=true, bCleanupResources=true
+[2023.11.09-12.25.09:479][212]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.09-12.25.09:481][212]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.09-12.25.09:487][212]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.09-12.25.09:512][212]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.09-12.25.09:512][212]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 33
+[2023.11.09-12.25.09:512][212]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33
+[2023.11.09-12.25.09:514][212]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33
+[2023.11.09-12.25.09:523][212]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2023.11.09-12.25.09:546][212]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.25.09:567][213]LogPlayLevel: Display: Destroying online subsystem :Context_65
+[2023.11.09-12.25.22:504][205]BlueprintLog: New page: Compile Credits
+[2023.11.09-12.25.22:549][205]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2023.11.09-12.25.24:100][307]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.11.09-12.25.24:108][307]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.09-12.25.24:108][307]PIE: New page: PIE session: mainmenumap (Nov 9, 2023, 12:25:24 AM)
+[2023.11.09-12.25.24:108][307]LogPlayLevel: Creating play world package: /Game/_Developers/MarioGomez/UI/UEDPIE_0_mainmenumap
+[2023.11.09-12.25.24:109][307]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001198s)
+[2023.11.09-12.25.24:109][307]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Developers/MarioGomez/UI/mainmenumap.mainmenumap to /Game/_Developers/MarioGomez/UI/UEDPIE_0_mainmenumap.mainmenumap (0.001238s)
+[2023.11.09-12.25.24:109][307]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.09-12.25.24:110][307]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.09-12.25.24:110][307]LogAIModule: Creating AISystem for world mainmenumap
+[2023.11.09-12.25.24:111][307]LogPlayLevel: PIE: World Init took: (0.001256s)
+[2023.11.09-12.25.24:137][307]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2023.11.09-12.25.24:140][307]LogAudio: Display: Creating Audio Device:                 Id: 34, Scope: Unique, Realtime: True
+[2023.11.09-12.25.24:140][307]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.09-12.25.24:140][307]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.09-12.25.24:140][307]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.09-12.25.24:140][307]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.09-12.25.24:140][307]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.09-12.25.24:140][307]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.09-12.25.24:140][307]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.09-12.25.24:140][307]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.09-12.25.24:140][307]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.09-12.25.24:140][307]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.09-12.25.24:140][307]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.09-12.25.24:142][307]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.09-12.25.24:178][307]LogAudioMixer: Display: Using Audio Hardware Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2023.11.09-12.25.24:178][307]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.09-12.25.24:178][307]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.09-12.25.24:178][307]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.09-12.25.24:179][307]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=34
+[2023.11.09-12.25.24:179][307]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=34
+[2023.11.09-12.25.24:181][307]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=34
+[2023.11.09-12.25.24:181][307]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=34
+[2023.11.09-12.25.24:181][307]LogInit: FAudioDevice initialized with ID 34.
+[2023.11.09-12.25.24:181][307]LogAudio: Display: Audio Device (ID: 34) registered with world 'mainmenumap'.
+[2023.11.09-12.25.24:181][307]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 34
+[2023.11.09-12.25.24:233][307]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.09-12.25.24:234][307]LogLoad: Game class is 'MenuGameMode_C'
+[2023.11.09-12.25.24:234][307]LogWorld: Bringing World /Game/_Developers/MarioGomez/UI/UEDPIE_0_mainmenumap.mainmenumap up for play (max tick rate 0) at 2023.11.09-06.25.24
+[2023.11.09-12.25.24:234][307]LogWorld: Bringing up level for play took: 0.000444
+[2023.11.09-12.25.24:237][307]LogOnline: OSS: Created online subsystem instance for: :Context_66
+[2023.11.09-12.25.24:238][307]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.09-12.25.24:238][307]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.11.09-12.25.24:244][307]PIE: Server logged in
+[2023.11.09-12.25.24:248][307]PIE: Play in editor total start time 0.14 seconds.
+[2023.11.09-12.25.24:286][307]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.25.24:286][307]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.25.24:287][307]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.25.24:287][307]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.25.24:287][307]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.25.24:288][307]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.25.24:288][307]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.25.24:289][307]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.25.24:290][307]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.25.24:290][307]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.25.24:291][307]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.25.24:291][307]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.25.24:295][307]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.11.09-12.25.40:673][308]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.09-12.25.40:688][308]LogSavePackage: Moving output files for package: /Game/_Developers/MarioGomez/UI/Credits
+[2023.11.09-12.25.40:689][308]LogSavePackage: Moving 'C:/Github/UNREAL/5.2/Tecnicas Texturizado/REPO_BryanJamTeam2/PROJ_BrayanJamTeam2/Saved/Credits189285754A26AEE0728D06A82A4B1605.tmp' to 'C:/Github/UNREAL/5.2/Tecnicas Texturizado/REPO_BryanJamTeam2/PROJ_BrayanJamTeam2/Content/_Developers/MarioGomez/UI/Credits.uasset'
+[2023.11.09-12.25.40:690][308]LogFileHelpers: InternalPromptForCheckoutAndSave took 16 ms (total: 2.50 sec)
+[2023.11.09-12.25.40:697][308]AssetCheck: New page: Asset Save: Credits
+[2023.11.09-12.25.40:697][308]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/_Developers/MarioGomez/UI/Credits.Credits
+[2023.11.09-12.26.42:629][704]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.09-12.26.42:629][704]LogWorld: BeginTearingDown for /Game/_Developers/MarioGomez/UI/UEDPIE_0_mainmenumap
+[2023.11.09-12.26.42:630][704]LogSlate: Window 'PROJ_BrayanJamTeam2 Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.11.09-12.26.42:635][704]LogWorld: UWorld::CleanupWorld for mainmenumap, bSessionEnded=true, bCleanupResources=true
+[2023.11.09-12.26.42:635][704]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.09-12.26.42:643][704]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.09-12.26.42:666][704]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.09-12.26.42:699][704]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.09-12.26.42:700][704]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 34
+[2023.11.09-12.26.42:700][704]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
+[2023.11.09-12.26.42:702][704]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
+[2023.11.09-12.26.42:716][704]LogUObjectHash: Compacting FUObjectHashTables data took   4.55ms
+[2023.11.09-12.26.42:742][704]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.26.42:769][705]LogPlayLevel: Display: Destroying online subsystem :Context_66
+[2023.11.09-12.26.54:434][356]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.09-12.26.54:545][356]LogSavePackage: Moving output files for package: /Game/_Developers/MarioGomez/UI/Credits
+[2023.11.09-12.26.54:546][356]LogSavePackage: Moving 'C:/Github/UNREAL/5.2/Tecnicas Texturizado/REPO_BryanJamTeam2/PROJ_BrayanJamTeam2/Saved/Credits32388FB1429ADE425738C18C7A4576A9.tmp' to 'C:/Github/UNREAL/5.2/Tecnicas Texturizado/REPO_BryanJamTeam2/PROJ_BrayanJamTeam2/Content/_Developers/MarioGomez/UI/Credits.uasset'
+[2023.11.09-12.26.54:560][356]LogFileHelpers: InternalPromptForCheckoutAndSave took 126 ms (total: 2.63 sec)
+[2023.11.09-12.26.54:568][356]AssetCheck: New page: Asset Save: Credits
+[2023.11.09-12.26.54:568][356]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/_Developers/MarioGomez/UI/Credits.Credits
+[2023.11.09-12.27.03:564][972]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.11.09-12.27.03:572][972]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.11.09-12.27.03:574][972]LogPlayLevel: [PlayLevel] Compiling Credits before play...
+[2023.11.09-12.27.03:678][972]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2023.11.09-12.27.03:682][972]LogPlayLevel: PlayLevel: Blueprint regeneration took 109 ms (1 blueprints)
+[2023.11.09-12.27.03:682][972]PIE: New page: PIE session: mainmenumap (Nov 9, 2023, 12:27:03 AM)
+[2023.11.09-12.27.03:683][972]LogPlayLevel: Creating play world package: /Game/_Developers/MarioGomez/UI/UEDPIE_0_mainmenumap
+[2023.11.09-12.27.03:685][972]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002387s)
+[2023.11.09-12.27.03:685][972]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Developers/MarioGomez/UI/mainmenumap.mainmenumap to /Game/_Developers/MarioGomez/UI/UEDPIE_0_mainmenumap.mainmenumap (0.002453s)
+[2023.11.09-12.27.03:685][972]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.09-12.27.03:685][972]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.09-12.27.03:686][972]LogAIModule: Creating AISystem for world mainmenumap
+[2023.11.09-12.27.03:686][972]LogPlayLevel: PIE: World Init took: (0.001584s)
+[2023.11.09-12.27.03:719][972]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2023.11.09-12.27.03:722][972]LogAudio: Display: Creating Audio Device:                 Id: 35, Scope: Unique, Realtime: True
+[2023.11.09-12.27.03:722][972]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.09-12.27.03:722][972]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.09-12.27.03:722][972]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.09-12.27.03:722][972]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.09-12.27.03:722][972]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.09-12.27.03:722][972]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.09-12.27.03:722][972]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.09-12.27.03:722][972]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.09-12.27.03:723][972]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.09-12.27.03:723][972]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.09-12.27.03:723][972]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.09-12.27.03:725][972]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.09-12.27.03:763][972]LogAudioMixer: Display: Using Audio Hardware Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2023.11.09-12.27.03:764][972]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.09-12.27.03:764][972]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.09-12.27.03:764][972]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.09-12.27.03:765][972]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=35
+[2023.11.09-12.27.03:765][972]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=35
+[2023.11.09-12.27.03:768][972]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=35
+[2023.11.09-12.27.03:768][972]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=35
+[2023.11.09-12.27.03:768][972]LogInit: FAudioDevice initialized with ID 35.
+[2023.11.09-12.27.03:769][972]LogAudio: Display: Audio Device (ID: 35) registered with world 'mainmenumap'.
+[2023.11.09-12.27.03:769][972]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 35
+[2023.11.09-12.27.03:817][972]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.09-12.27.03:818][972]LogLoad: Game class is 'MenuGameMode_C'
+[2023.11.09-12.27.03:818][972]LogWorld: Bringing World /Game/_Developers/MarioGomez/UI/UEDPIE_0_mainmenumap.mainmenumap up for play (max tick rate 0) at 2023.11.09-06.27.03
+[2023.11.09-12.27.03:818][972]LogWorld: Bringing up level for play took: 0.000499
+[2023.11.09-12.27.03:821][972]LogOnline: OSS: Created online subsystem instance for: :Context_67
+[2023.11.09-12.27.03:824][972]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.09-12.27.03:824][972]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.11.09-12.27.03:830][972]PIE: Server logged in
+[2023.11.09-12.27.03:834][972]PIE: Play in editor total start time 0.262 seconds.
+[2023.11.09-12.27.03:846][972]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.27.03:847][972]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.27.03:847][972]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.27.03:848][972]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.27.03:848][972]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.27.03:848][972]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.27.03:849][972]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.27.03:849][972]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.27.03:850][972]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.27.03:851][972]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.27.03:851][972]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.27.03:852][972]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.27.03:950][972]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.11.09-12.27.21:298][909]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.09-12.27.21:298][909]LogWorld: BeginTearingDown for /Game/_Developers/MarioGomez/UI/UEDPIE_0_mainmenumap
+[2023.11.09-12.27.21:299][909]LogSlate: Window 'PROJ_BrayanJamTeam2 Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.11.09-12.27.21:308][909]LogWorld: UWorld::CleanupWorld for mainmenumap, bSessionEnded=true, bCleanupResources=true
+[2023.11.09-12.27.21:308][909]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.09-12.27.21:311][909]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.09-12.27.21:316][909]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.09-12.27.21:345][909]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 35
+[2023.11.09-12.27.21:345][909]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35
+[2023.11.09-12.27.21:347][909]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35
+[2023.11.09-12.27.21:355][909]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2023.11.09-12.27.21:377][909]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.27.21:398][910]LogPlayLevel: Display: Destroying online subsystem :Context_67
+[2023.11.09-12.27.46:215][706]BlueprintLog: New page: Compile Credits
+[2023.11.09-12.27.46:261][706]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2023.11.09-12.27.49:033][899]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.09-12.27.49:151][899]LogSavePackage: Moving output files for package: /Game/_Developers/MarioGomez/UI/Credits
+[2023.11.09-12.27.49:151][899]LogSavePackage: Moving 'C:/Github/UNREAL/5.2/Tecnicas Texturizado/REPO_BryanJamTeam2/PROJ_BrayanJamTeam2/Saved/CreditsBDD1B5674FEA1C24D8A9A2A35FBFD6FD.tmp' to 'C:/Github/UNREAL/5.2/Tecnicas Texturizado/REPO_BryanJamTeam2/PROJ_BrayanJamTeam2/Content/_Developers/MarioGomez/UI/Credits.uasset'
+[2023.11.09-12.27.49:166][899]LogFileHelpers: InternalPromptForCheckoutAndSave took 133 ms (total: 2.76 sec)
+[2023.11.09-12.27.49:176][899]AssetCheck: New page: Asset Save: Credits
+[2023.11.09-12.27.49:176][899]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/_Developers/MarioGomez/UI/Credits.Credits
+[2023.11.09-12.29.22:473][310]Cmd: TRANSACTION UNDO
+[2023.11.09-12.29.22:473][310]LogEditorTransaction: Undo Animatable Property Changed
+[2023.11.09-12.29.22:609][310]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.29.23:386][331]Cmd: TRANSACTION UNDO
+[2023.11.09-12.29.23:386][331]LogEditorTransaction: Undo Edit Top
+[2023.11.09-12.29.23:468][331]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.29.28:848][615]Cmd: TRANSACTION UNDO
+[2023.11.09-12.29.28:848][615]LogEditorTransaction: Undo Edit Top
+[2023.11.09-12.29.28:979][615]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.29.30:744][692]Cmd: TRANSACTION UNDO
+[2023.11.09-12.29.30:744][692]LogEditorTransaction: Undo Delete Keys
+[2023.11.09-12.29.30:825][692]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.31.21:176][772]Cmd: TRANSACTION UNDO
+[2023.11.09-12.31.21:176][772]LogEditorTransaction: Undo Animatable Property Changed
+[2023.11.09-12.31.21:299][772]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.31.23:779][888]Cmd: TRANSACTION UNDO
+[2023.11.09-12.31.23:779][888]LogEditorTransaction: Undo Edit Top
+[2023.11.09-12.31.23:859][888]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.31.27:116][ 60]Cmd: TRANSACTION UNDO
+[2023.11.09-12.31.27:116][ 60]LogEditorTransaction: Undo Resize section
+[2023.11.09-12.31.27:254][ 60]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.31.29:054][138]Cmd: TRANSACTION UNDO
+[2023.11.09-12.31.29:054][138]LogEditorTransaction: Undo Resize section
+[2023.11.09-12.31.29:141][138]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.31.30:021][178]Cmd: TRANSACTION UNDO
+[2023.11.09-12.31.30:021][178]LogEditorTransaction: Undo Delete Keys
+[2023.11.09-12.31.30:102][178]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.33.18:667][966]Cmd: TRANSACTION UNDO
+[2023.11.09-12.33.18:667][966]LogEditorTransaction: Undo Move Keys or Sections
+[2023.11.09-12.33.18:800][966]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.33.19:392][976]Cmd: TRANSACTION UNDO
+[2023.11.09-12.33.19:392][976]LogEditorTransaction: Undo Move Keys or Sections
+[2023.11.09-12.33.19:477][976]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.33.20:142][  3]Cmd: TRANSACTION UNDO
+[2023.11.09-12.33.20:142][  3]LogEditorTransaction: Undo Animatable Property Changed
+[2023.11.09-12.33.20:227][  3]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.33.20:806][ 26]Cmd: TRANSACTION UNDO
+[2023.11.09-12.33.20:806][ 26]LogEditorTransaction: Undo Edit Top
+[2023.11.09-12.33.20:887][ 26]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.33.21:470][ 49]Cmd: TRANSACTION UNDO
+[2023.11.09-12.33.21:470][ 49]LogEditorTransaction: Undo Edit Top
+[2023.11.09-12.33.21:556][ 49]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.33.22:065][ 68]Cmd: TRANSACTION UNDO
+[2023.11.09-12.33.22:065][ 68]LogEditorTransaction: Undo Delete Keys
+[2023.11.09-12.33.22:146][ 68]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.36.10:947][ 66]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.09-12.36.11:077][ 66]LogSavePackage: Moving output files for package: /Game/_Developers/MarioGomez/UI/Credits
+[2023.11.09-12.36.11:079][ 66]LogSavePackage: Moving 'C:/Github/UNREAL/5.2/Tecnicas Texturizado/REPO_BryanJamTeam2/PROJ_BrayanJamTeam2/Saved/Credits2288531B4651100D0B7479AD5EAB3D5E.tmp' to 'C:/Github/UNREAL/5.2/Tecnicas Texturizado/REPO_BryanJamTeam2/PROJ_BrayanJamTeam2/Content/_Developers/MarioGomez/UI/Credits.uasset'
+[2023.11.09-12.36.11:094][ 66]LogFileHelpers: InternalPromptForCheckoutAndSave took 145 ms (total: 2.91 sec)
+[2023.11.09-12.36.11:104][ 66]AssetCheck: New page: Asset Save: Credits
+[2023.11.09-12.36.11:104][ 66]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/_Developers/MarioGomez/UI/Credits.Credits
+[2023.11.09-12.36.12:588][152]BlueprintLog: New page: Compile Credits
+[2023.11.09-12.36.12:654][152]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2023.11.09-12.36.20:572][717]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.11.09-12.36.20:580][717]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.09-12.36.20:580][717]PIE: New page: PIE session: mainmenumap (Nov 9, 2023, 12:36:20 AM)
+[2023.11.09-12.36.20:581][717]LogPlayLevel: Creating play world package: /Game/_Developers/MarioGomez/UI/UEDPIE_0_mainmenumap
+[2023.11.09-12.36.20:582][717]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001247s)
+[2023.11.09-12.36.20:582][717]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Developers/MarioGomez/UI/mainmenumap.mainmenumap to /Game/_Developers/MarioGomez/UI/UEDPIE_0_mainmenumap.mainmenumap (0.001288s)
+[2023.11.09-12.36.20:582][717]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.09-12.36.20:582][717]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.09-12.36.20:582][717]LogAIModule: Creating AISystem for world mainmenumap
+[2023.11.09-12.36.20:582][717]LogPlayLevel: PIE: World Init took: (0.000958s)
+[2023.11.09-12.36.20:612][717]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.11.09-12.36.20:615][717]LogAudio: Display: Creating Audio Device:                 Id: 36, Scope: Unique, Realtime: True
+[2023.11.09-12.36.20:615][717]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.09-12.36.20:615][717]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.09-12.36.20:615][717]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.09-12.36.20:615][717]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.09-12.36.20:615][717]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.09-12.36.20:615][717]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.09-12.36.20:615][717]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.09-12.36.20:615][717]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.09-12.36.20:616][717]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.09-12.36.20:616][717]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.09-12.36.20:616][717]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.09-12.36.20:618][717]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.09-12.36.20:654][717]LogAudioMixer: Display: Using Audio Hardware Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2023.11.09-12.36.20:654][717]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.09-12.36.20:654][717]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.09-12.36.20:655][717]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.09-12.36.20:656][717]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=36
+[2023.11.09-12.36.20:656][717]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=36
+[2023.11.09-12.36.20:658][717]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=36
+[2023.11.09-12.36.20:658][717]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=36
+[2023.11.09-12.36.20:658][717]LogInit: FAudioDevice initialized with ID 36.
+[2023.11.09-12.36.20:658][717]LogAudio: Display: Audio Device (ID: 36) registered with world 'mainmenumap'.
+[2023.11.09-12.36.20:658][717]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 36
+[2023.11.09-12.36.20:710][717]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.09-12.36.20:710][717]LogLoad: Game class is 'MenuGameMode_C'
+[2023.11.09-12.36.20:711][717]LogWorld: Bringing World /Game/_Developers/MarioGomez/UI/UEDPIE_0_mainmenumap.mainmenumap up for play (max tick rate 0) at 2023.11.09-06.36.20
+[2023.11.09-12.36.20:711][717]LogWorld: Bringing up level for play took: 0.000479
+[2023.11.09-12.36.20:713][717]LogOnline: OSS: Created online subsystem instance for: :Context_68
+[2023.11.09-12.36.20:716][717]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.09-12.36.20:716][717]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.11.09-12.36.20:722][717]PIE: Server logged in
+[2023.11.09-12.36.20:726][717]PIE: Play in editor total start time 0.146 seconds.
+[2023.11.09-12.36.20:756][717]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.36.20:756][717]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.36.20:757][717]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.36.20:757][717]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.36.20:758][717]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.36.20:758][717]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.36.20:759][717]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.36.20:759][717]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.36.20:760][717]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.36.20:760][717]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.36.20:760][717]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.36.20:761][717]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.36.20:762][717]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.11.09-12.37.38:444][402]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.09-12.37.38:444][402]LogWorld: BeginTearingDown for /Game/_Developers/MarioGomez/UI/UEDPIE_0_mainmenumap
+[2023.11.09-12.37.38:445][402]LogSlate: Window 'PROJ_BrayanJamTeam2 Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.11.09-12.37.38:448][402]LogWorld: UWorld::CleanupWorld for mainmenumap, bSessionEnded=true, bCleanupResources=true
+[2023.11.09-12.37.38:450][402]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.09-12.37.38:453][402]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.09-12.37.38:459][402]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.09-12.37.38:484][402]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.09-12.37.38:485][402]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 36
+[2023.11.09-12.37.38:485][402]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=36
+[2023.11.09-12.37.38:488][402]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=36
+[2023.11.09-12.37.38:499][402]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2023.11.09-12.37.38:520][402]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.37.38:541][403]LogPlayLevel: Display: Destroying online subsystem :Context_68
+[2023.11.09-12.37.40:315][500]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.09-12.37.40:436][500]LogSavePackage: Moving output files for package: /Game/_Developers/MarioGomez/UI/Credits
+[2023.11.09-12.37.40:437][500]LogSavePackage: Moving 'C:/Github/UNREAL/5.2/Tecnicas Texturizado/REPO_BryanJamTeam2/PROJ_BrayanJamTeam2/Saved/Credits1DCBDE2D4FAAA3ADFE9E9E9FCDB12FA7.tmp' to 'C:/Github/UNREAL/5.2/Tecnicas Texturizado/REPO_BryanJamTeam2/PROJ_BrayanJamTeam2/Content/_Developers/MarioGomez/UI/Credits.uasset'
+[2023.11.09-12.37.40:453][500]LogFileHelpers: InternalPromptForCheckoutAndSave took 138 ms (total: 3.05 sec)
+[2023.11.09-12.37.40:464][500]AssetCheck: New page: Asset Save: Credits
+[2023.11.09-12.37.40:464][500]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/_Developers/MarioGomez/UI/Credits.Credits
+[2023.11.09-12.38.01:322][943]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.11.09-12.38.01:330][943]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.09-12.38.01:331][943]PIE: New page: PIE session: mainmenumap (Nov 9, 2023, 12:38:01 AM)
+[2023.11.09-12.38.01:331][943]LogPlayLevel: Creating play world package: /Game/_Developers/MarioGomez/UI/UEDPIE_0_mainmenumap
+[2023.11.09-12.38.01:335][943]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002991s)
+[2023.11.09-12.38.01:335][943]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Developers/MarioGomez/UI/mainmenumap.mainmenumap to /Game/_Developers/MarioGomez/UI/UEDPIE_0_mainmenumap.mainmenumap (0.003070s)
+[2023.11.09-12.38.01:335][943]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.09-12.38.01:335][943]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.09-12.38.01:336][943]LogAIModule: Creating AISystem for world mainmenumap
+[2023.11.09-12.38.01:336][943]LogPlayLevel: PIE: World Init took: (0.001499s)
+[2023.11.09-12.38.01:363][943]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2023.11.09-12.38.01:366][943]LogAudio: Display: Creating Audio Device:                 Id: 37, Scope: Unique, Realtime: True
+[2023.11.09-12.38.01:366][943]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.09-12.38.01:366][943]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.09-12.38.01:366][943]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.09-12.38.01:366][943]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.09-12.38.01:366][943]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.09-12.38.01:366][943]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.09-12.38.01:366][943]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.09-12.38.01:366][943]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.09-12.38.01:367][943]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.09-12.38.01:367][943]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.09-12.38.01:367][943]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.09-12.38.01:370][943]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.09-12.38.01:405][943]LogAudioMixer: Display: Using Audio Hardware Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2023.11.09-12.38.01:405][943]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.09-12.38.01:405][943]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.09-12.38.01:406][943]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.09-12.38.01:406][943]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=37
+[2023.11.09-12.38.01:406][943]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=37
+[2023.11.09-12.38.01:409][943]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=37
+[2023.11.09-12.38.01:409][943]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=37
+[2023.11.09-12.38.01:409][943]LogInit: FAudioDevice initialized with ID 37.
+[2023.11.09-12.38.01:409][943]LogAudio: Display: Audio Device (ID: 37) registered with world 'mainmenumap'.
+[2023.11.09-12.38.01:409][943]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 37
+[2023.11.09-12.38.01:471][943]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.09-12.38.01:472][943]LogLoad: Game class is 'MenuGameMode_C'
+[2023.11.09-12.38.01:472][943]LogWorld: Bringing World /Game/_Developers/MarioGomez/UI/UEDPIE_0_mainmenumap.mainmenumap up for play (max tick rate 0) at 2023.11.09-06.38.01
+[2023.11.09-12.38.01:472][943]LogWorld: Bringing up level for play took: 0.000511
+[2023.11.09-12.38.01:475][943]LogOnline: OSS: Created online subsystem instance for: :Context_69
+[2023.11.09-12.38.01:480][943]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.09-12.38.01:480][943]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.11.09-12.38.01:488][943]PIE: Server logged in
+[2023.11.09-12.38.01:492][943]PIE: Play in editor total start time 0.162 seconds.
+[2023.11.09-12.38.01:523][943]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.38.01:523][943]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.38.01:524][943]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.38.01:524][943]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.38.01:525][943]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.38.01:525][943]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.38.01:526][943]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.38.01:526][943]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.38.01:527][943]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.38.01:527][943]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.38.01:528][943]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.38.01:528][943]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.38.01:531][943]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.11.09-12.39.33:373][  2]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.09-12.39.33:373][  2]LogWorld: BeginTearingDown for /Game/_Developers/MarioGomez/UI/UEDPIE_0_mainmenumap
+[2023.11.09-12.39.33:374][  2]LogSlate: Window 'PROJ_BrayanJamTeam2 Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.11.09-12.39.33:377][  2]LogWorld: UWorld::CleanupWorld for mainmenumap, bSessionEnded=true, bCleanupResources=true
+[2023.11.09-12.39.33:378][  2]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.09-12.39.33:380][  2]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.09-12.39.33:386][  2]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.09-12.39.33:413][  2]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.09-12.39.33:413][  2]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 37
+[2023.11.09-12.39.33:414][  2]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=37
+[2023.11.09-12.39.33:416][  2]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=37
+[2023.11.09-12.39.33:424][  2]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2023.11.09-12.39.33:446][  2]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.39.33:468][  3]LogPlayLevel: Display: Destroying online subsystem :Context_69
+[2023.11.09-12.39.49:703][972]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.09-12.39.49:805][972]LogSavePackage: Moving output files for package: /Game/_Developers/MarioGomez/UI/Credits
+[2023.11.09-12.39.49:806][972]LogSavePackage: Moving 'C:/Github/UNREAL/5.2/Tecnicas Texturizado/REPO_BryanJamTeam2/PROJ_BrayanJamTeam2/Saved/Credits587B194B42233ACA298EB79621B3EE8F.tmp' to 'C:/Github/UNREAL/5.2/Tecnicas Texturizado/REPO_BryanJamTeam2/PROJ_BrayanJamTeam2/Content/_Developers/MarioGomez/UI/Credits.uasset'
+[2023.11.09-12.39.49:822][972]LogFileHelpers: InternalPromptForCheckoutAndSave took 118 ms (total: 3.16 sec)
+[2023.11.09-12.39.49:830][972]AssetCheck: New page: Asset Save: Credits
+[2023.11.09-12.39.49:830][972]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/_Developers/MarioGomez/UI/Credits.Credits
+[2023.11.09-12.39.50:581][ 28]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.09-12.39.50:682][ 28]LogSavePackage: Moving output files for package: /Game/_Developers/MarioGomez/UI/Credits
+[2023.11.09-12.39.50:682][ 28]LogSavePackage: Moving 'C:/Github/UNREAL/5.2/Tecnicas Texturizado/REPO_BryanJamTeam2/PROJ_BrayanJamTeam2/Saved/CreditsB75FBDCC4D81977108E2F698697CEC36.tmp' to 'C:/Github/UNREAL/5.2/Tecnicas Texturizado/REPO_BryanJamTeam2/PROJ_BrayanJamTeam2/Content/_Developers/MarioGomez/UI/Credits.uasset'
+[2023.11.09-12.39.50:695][ 28]LogFileHelpers: InternalPromptForCheckoutAndSave took 113 ms (total: 3.28 sec)
+[2023.11.09-12.39.50:703][ 28]AssetCheck: New page: Asset Save: Credits
+[2023.11.09-12.39.50:703][ 28]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/_Developers/MarioGomez/UI/Credits.Credits
+[2023.11.09-12.39.50:730][ 30]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.09-12.39.50:832][ 30]LogSavePackage: Moving output files for package: /Game/_Developers/MarioGomez/UI/Credits
+[2023.11.09-12.39.50:833][ 30]LogSavePackage: Moving 'C:/Github/UNREAL/5.2/Tecnicas Texturizado/REPO_BryanJamTeam2/PROJ_BrayanJamTeam2/Saved/Credits352DE6AA407342AFDFCB52B860D00A80.tmp' to 'C:/Github/UNREAL/5.2/Tecnicas Texturizado/REPO_BryanJamTeam2/PROJ_BrayanJamTeam2/Content/_Developers/MarioGomez/UI/Credits.uasset'
+[2023.11.09-12.39.50:848][ 30]LogFileHelpers: InternalPromptForCheckoutAndSave took 116 ms (total: 3.40 sec)
+[2023.11.09-12.39.50:853][ 30]AssetCheck: New page: Asset Save: Credits
+[2023.11.09-12.39.50:853][ 30]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/_Developers/MarioGomez/UI/Credits.Credits
+[2023.11.09-12.39.53:555][234]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.11.09-12.39.53:563][234]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.09-12.39.53:563][234]PIE: New page: PIE session: mainmenumap (Nov 9, 2023, 12:39:53 AM)
+[2023.11.09-12.39.53:563][234]LogPlayLevel: Creating play world package: /Game/_Developers/MarioGomez/UI/UEDPIE_0_mainmenumap
+[2023.11.09-12.39.53:564][234]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001212s)
+[2023.11.09-12.39.53:564][234]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Developers/MarioGomez/UI/mainmenumap.mainmenumap to /Game/_Developers/MarioGomez/UI/UEDPIE_0_mainmenumap.mainmenumap (0.001251s)
+[2023.11.09-12.39.53:565][234]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.09-12.39.53:565][234]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.09-12.39.53:565][234]LogAIModule: Creating AISystem for world mainmenumap
+[2023.11.09-12.39.53:565][234]LogPlayLevel: PIE: World Init took: (0.000993s)
+[2023.11.09-12.39.53:591][234]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2023.11.09-12.39.53:593][234]LogAudio: Display: Creating Audio Device:                 Id: 38, Scope: Unique, Realtime: True
+[2023.11.09-12.39.53:593][234]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.09-12.39.53:593][234]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.09-12.39.53:593][234]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.09-12.39.53:593][234]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.09-12.39.53:593][234]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.09-12.39.53:593][234]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.09-12.39.53:593][234]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.09-12.39.53:593][234]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.09-12.39.53:595][234]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.09-12.39.53:595][234]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.09-12.39.53:595][234]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.09-12.39.53:597][234]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.09-12.39.53:633][234]LogAudioMixer: Display: Using Audio Hardware Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2023.11.09-12.39.53:634][234]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.09-12.39.53:634][234]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.09-12.39.53:634][234]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.09-12.39.53:634][234]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=38
+[2023.11.09-12.39.53:634][234]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=38
+[2023.11.09-12.39.53:637][234]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=38
+[2023.11.09-12.39.53:637][234]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=38
+[2023.11.09-12.39.53:637][234]LogInit: FAudioDevice initialized with ID 38.
+[2023.11.09-12.39.53:637][234]LogAudio: Display: Audio Device (ID: 38) registered with world 'mainmenumap'.
+[2023.11.09-12.39.53:637][234]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 38
+[2023.11.09-12.39.53:694][234]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.09-12.39.53:695][234]LogLoad: Game class is 'MenuGameMode_C'
+[2023.11.09-12.39.53:695][234]LogWorld: Bringing World /Game/_Developers/MarioGomez/UI/UEDPIE_0_mainmenumap.mainmenumap up for play (max tick rate 0) at 2023.11.09-06.39.53
+[2023.11.09-12.39.53:695][234]LogWorld: Bringing up level for play took: 0.000395
+[2023.11.09-12.39.53:698][234]LogOnline: OSS: Created online subsystem instance for: :Context_70
+[2023.11.09-12.39.53:700][234]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.09-12.39.53:700][234]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.11.09-12.39.53:706][234]PIE: Server logged in
+[2023.11.09-12.39.53:710][234]PIE: Play in editor total start time 0.147 seconds.
+[2023.11.09-12.39.53:747][234]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.39.53:748][234]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.39.53:748][234]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.39.53:749][234]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.39.53:749][234]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.39.53:750][234]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.39.53:750][234]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.39.53:750][234]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.39.53:751][234]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.39.53:751][234]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.39.53:752][234]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.39.53:752][234]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.39.53:756][234]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.11.09-12.40.09:174][180]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.09-12.40.09:174][180]LogWorld: BeginTearingDown for /Game/_Developers/MarioGomez/UI/UEDPIE_0_mainmenumap
+[2023.11.09-12.40.09:175][180]LogSlate: Window 'PROJ_BrayanJamTeam2 Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.11.09-12.40.09:185][180]LogWorld: UWorld::CleanupWorld for mainmenumap, bSessionEnded=true, bCleanupResources=true
+[2023.11.09-12.40.09:185][180]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.09-12.40.09:187][180]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.09-12.40.09:193][180]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.09-12.40.09:219][180]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.09-12.40.09:219][180]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 38
+[2023.11.09-12.40.09:219][180]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38
+[2023.11.09-12.40.09:223][180]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38
+[2023.11.09-12.40.09:230][180]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2023.11.09-12.40.09:250][180]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.40.09:268][181]LogPlayLevel: Display: Destroying online subsystem :Context_70
+[2023.11.09-12.40.43:932][279]BlueprintLog: New page: Compile Credits
+[2023.11.09-12.40.44:020][279]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2023.11.09-12.40.46:650][409]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.09-12.40.46:775][409]LogSavePackage: Moving output files for package: /Game/_Developers/MarioGomez/UI/Credits
+[2023.11.09-12.40.46:776][409]LogSavePackage: Moving 'C:/Github/UNREAL/5.2/Tecnicas Texturizado/REPO_BryanJamTeam2/PROJ_BrayanJamTeam2/Saved/Credits4940A5214614A9E69C5BAD80D79CDE19.tmp' to 'C:/Github/UNREAL/5.2/Tecnicas Texturizado/REPO_BryanJamTeam2/PROJ_BrayanJamTeam2/Content/_Developers/MarioGomez/UI/Credits.uasset'
+[2023.11.09-12.40.46:791][409]LogFileHelpers: InternalPromptForCheckoutAndSave took 141 ms (total: 3.54 sec)
+[2023.11.09-12.40.46:798][409]AssetCheck: New page: Asset Save: Credits
+[2023.11.09-12.40.46:798][409]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/_Developers/MarioGomez/UI/Credits.Credits
+[2023.11.09-12.40.48:461][502]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.11.09-12.40.48:469][502]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.09-12.40.48:470][502]PIE: New page: PIE session: mainmenumap (Nov 9, 2023, 12:40:48 AM)
+[2023.11.09-12.40.48:470][502]LogPlayLevel: Creating play world package: /Game/_Developers/MarioGomez/UI/UEDPIE_0_mainmenumap
+[2023.11.09-12.40.48:471][502]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001302s)
+[2023.11.09-12.40.48:471][502]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Developers/MarioGomez/UI/mainmenumap.mainmenumap to /Game/_Developers/MarioGomez/UI/UEDPIE_0_mainmenumap.mainmenumap (0.001342s)
+[2023.11.09-12.40.48:471][502]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.09-12.40.48:471][502]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.09-12.40.48:472][502]LogAIModule: Creating AISystem for world mainmenumap
+[2023.11.09-12.40.48:472][502]LogPlayLevel: PIE: World Init took: (0.000924s)
+[2023.11.09-12.40.48:498][502]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2023.11.09-12.40.48:501][502]LogAudio: Display: Creating Audio Device:                 Id: 39, Scope: Unique, Realtime: True
+[2023.11.09-12.40.48:501][502]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.09-12.40.48:501][502]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.09-12.40.48:501][502]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.09-12.40.48:501][502]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.09-12.40.48:501][502]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.09-12.40.48:501][502]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.09-12.40.48:501][502]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.09-12.40.48:501][502]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.09-12.40.48:502][502]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.09-12.40.48:502][502]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.09-12.40.48:502][502]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.09-12.40.48:504][502]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.09-12.40.48:539][502]LogAudioMixer: Display: Using Audio Hardware Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2023.11.09-12.40.48:539][502]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.09-12.40.48:539][502]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.09-12.40.48:539][502]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.09-12.40.48:541][502]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=39
+[2023.11.09-12.40.48:541][502]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=39
+[2023.11.09-12.40.48:543][502]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=39
+[2023.11.09-12.40.48:543][502]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=39
+[2023.11.09-12.40.48:543][502]LogInit: FAudioDevice initialized with ID 39.
+[2023.11.09-12.40.48:543][502]LogAudio: Display: Audio Device (ID: 39) registered with world 'mainmenumap'.
+[2023.11.09-12.40.48:543][502]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 39
+[2023.11.09-12.40.48:585][502]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.09-12.40.48:585][502]LogLoad: Game class is 'MenuGameMode_C'
+[2023.11.09-12.40.48:586][502]LogWorld: Bringing World /Game/_Developers/MarioGomez/UI/UEDPIE_0_mainmenumap.mainmenumap up for play (max tick rate 0) at 2023.11.09-06.40.48
+[2023.11.09-12.40.48:586][502]LogWorld: Bringing up level for play took: 0.000495
+[2023.11.09-12.40.48:589][502]LogOnline: OSS: Created online subsystem instance for: :Context_71
+[2023.11.09-12.40.48:591][502]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.09-12.40.48:591][502]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.11.09-12.40.48:596][502]PIE: Server logged in
+[2023.11.09-12.40.48:601][502]PIE: Play in editor total start time 0.131 seconds.
+[2023.11.09-12.40.48:631][502]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.40.48:631][502]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.40.48:632][502]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.40.48:632][502]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.40.48:633][502]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.40.48:634][502]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.40.48:634][502]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.40.48:635][502]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.40.48:635][502]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.40.48:636][502]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.40.48:636][502]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.40.48:637][502]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.40.48:643][502]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.11.09-12.41.01:150][ 85]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.11.09-12.41.01:150][ 85]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.11.09-12.41.01:152][ 85]LogNet: Browse: /Game/_Developers/EliasTrevino/NewMap
+[2023.11.09-12.41.01:152][ 85]LogLoad: LoadMap: /Game/_Developers/EliasTrevino/NewMap
+[2023.11.09-12.41.01:152][ 85]LogWorld: BeginTearingDown for /Game/_Developers/MarioGomez/UI/UEDPIE_0_mainmenumap
+[2023.11.09-12.41.01:153][ 85]LogWorld: UWorld::CleanupWorld for mainmenumap, bSessionEnded=true, bCleanupResources=true
+[2023.11.09-12.41.01:154][ 85]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.09-12.41.01:178][ 85]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.09-12.41.01:180][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2023.11.09-12.41.01:193][ 85]LogAudio: Display: Audio Device (ID: 39) registered with world 'NewMap'.
+[2023.11.09-12.41.01:193][ 85]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.09-12.41.01:193][ 85]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.09-12.41.01:193][ 85]LogAIModule: Creating AISystem for world NewMap
+[2023.11.09-12.41.01:194][ 85]LogPlayLevel: PIE: World Init took: (0.000835s)
+[2023.11.09-12.41.01:194][ 85]LogLoad: Game class is 'GM_JamBlueprint_C'
+[2023.11.09-12.41.01:199][ 85]LogWorld: Bringing World /Game/_Developers/EliasTrevino/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2023.11.09-06.41.01
+[2023.11.09-12.41.01:199][ 85]LogWorld: Bringing up level for play took: 0.005511
+[2023.11.09-12.41.01:204][ 85]LogLoad: Took 0.051293 seconds to LoadMap(/Game/_Developers/EliasTrevino/NewMap)
+[2023.11.09-12.41.01:225][ 85]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.41.01:225][ 85]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.41.01:226][ 85]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.41.01:226][ 85]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.41.01:227][ 85]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.41.01:227][ 85]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.41.01:228][ 85]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.41.01:228][ 85]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.41.01:229][ 85]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.41.01:229][ 85]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.41.01:230][ 85]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.41.01:231][ 85]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.41.01:231][ 85]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.41.01:232][ 85]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.41.01:232][ 85]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.41.01:234][ 85]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.41.01:234][ 85]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.41.01:234][ 85]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.41.01:235][ 85]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.41.01:236][ 85]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.41.01:236][ 85]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.41.01:237][ 85]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.41.01:237][ 85]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.41.01:238][ 85]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.41.01:238][ 85]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.41.01:238][ 85]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.41.02:695][146]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.09-12.41.02:695][146]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.11.09-12.41.03:787][195]LogNet: Browse: /Game/_Developers/MarioGomez/UI/mainmenumap
+[2023.11.09-12.41.03:787][195]LogLoad: LoadMap: /Game/_Developers/MarioGomez/UI/mainmenumap
+[2023.11.09-12.41.03:787][195]LogWorld: BeginTearingDown for /Game/_Developers/EliasTrevino/UEDPIE_0_NewMap
+[2023.11.09-12.41.03:787][195]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.09-12.41.03:787][195]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.09-12.41.03:813][195]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.09-12.41.03:816][195]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2023.11.09-12.41.03:819][195]LogPlayLevel: Creating play world package: /Game/_Developers/MarioGomez/UI/UEDPIE_0_mainmenumap
+[2023.11.09-12.41.03:820][195]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001219s)
+[2023.11.09-12.41.03:820][195]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Developers/MarioGomez/UI/mainmenumap.mainmenumap to /Game/_Developers/MarioGomez/UI/UEDPIE_0_mainmenumap.mainmenumap (0.001269s)
+[2023.11.09-12.41.03:820][195]LogAudio: Display: Audio Device (ID: 39) registered with world 'mainmenumap'.
+[2023.11.09-12.41.03:820][195]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.09-12.41.03:820][195]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.09-12.41.03:820][195]LogAIModule: Creating AISystem for world mainmenumap
+[2023.11.09-12.41.03:821][195]LogPlayLevel: PIE: World Init took: (0.000847s)
+[2023.11.09-12.41.03:821][195]LogLoad: Game class is 'MenuGameMode_C'
+[2023.11.09-12.41.03:821][195]LogWorld: Bringing World /Game/_Developers/MarioGomez/UI/UEDPIE_0_mainmenumap.mainmenumap up for play (max tick rate 0) at 2023.11.09-06.41.03
+[2023.11.09-12.41.03:821][195]LogWorld: Bringing up level for play took: 0.000330
+[2023.11.09-12.41.03:821][195]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.11.09-12.41.03:823][195]LogLoad: Took 0.036658 seconds to LoadMap(/Game/_Developers/MarioGomez/UI/UEDPIE_0_mainmenumap)
+[2023.11.09-12.41.03:836][195]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.41.03:836][195]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.41.03:837][195]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.41.03:837][195]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.41.03:838][195]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.41.03:838][195]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.41.03:839][195]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.41.03:839][195]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.41.03:840][195]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.41.03:840][195]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.41.03:840][195]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.41.11:685][571]Cmd: quit
+[2023.11.09-12.41.11:686][571]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.09-12.41.11:686][571]LogWorld: BeginTearingDown for /Game/_Developers/MarioGomez/UI/UEDPIE_0_mainmenumap
+[2023.11.09-12.41.11:688][571]LogSlate: Window 'PROJ_BrayanJamTeam2 Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.11.09-12.41.11:699][571]LogWorld: UWorld::CleanupWorld for mainmenumap, bSessionEnded=true, bCleanupResources=true
+[2023.11.09-12.41.11:699][571]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.09-12.41.11:701][571]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.09-12.41.11:707][571]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.09-12.41.11:732][571]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.09-12.41.11:732][571]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 39
+[2023.11.09-12.41.11:733][571]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39
+[2023.11.09-12.41.11:735][571]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39
+[2023.11.09-12.41.11:743][571]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2023.11.09-12.41.11:767][571]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.41.11:788][572]LogPlayLevel: Display: Destroying online subsystem :Context_71
+[2023.11.09-12.42.51:226][827]LogSlate: Window 'Project Settings' being destroyed
+[2023.11.09-12.42.51:235][827]LogSlate: Window 'Project Settings' being destroyed
+[2023.11.09-12.42.56:264][ 76]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.11.09-12.42.56:273][ 76]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.09-12.42.56:273][ 76]PIE: New page: PIE session: mainmenumap (Nov 9, 2023, 12:42:56 AM)
+[2023.11.09-12.42.56:273][ 76]LogPlayLevel: Creating play world package: /Game/_Developers/MarioGomez/UI/UEDPIE_0_mainmenumap
+[2023.11.09-12.42.56:274][ 76]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001217s)
+[2023.11.09-12.42.56:275][ 76]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Developers/MarioGomez/UI/mainmenumap.mainmenumap to /Game/_Developers/MarioGomez/UI/UEDPIE_0_mainmenumap.mainmenumap (0.001257s)
+[2023.11.09-12.42.56:275][ 76]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.09-12.42.56:275][ 76]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.09-12.42.56:275][ 76]LogAIModule: Creating AISystem for world mainmenumap
+[2023.11.09-12.42.56:275][ 76]LogPlayLevel: PIE: World Init took: (0.000869s)
+[2023.11.09-12.42.56:303][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2023.11.09-12.42.56:307][ 76]LogAudio: Display: Creating Audio Device:                 Id: 40, Scope: Unique, Realtime: True
+[2023.11.09-12.42.56:307][ 76]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.09-12.42.56:307][ 76]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.09-12.42.56:307][ 76]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.09-12.42.56:307][ 76]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.09-12.42.56:307][ 76]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.09-12.42.56:307][ 76]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.09-12.42.56:307][ 76]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.09-12.42.56:307][ 76]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.09-12.42.56:307][ 76]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.09-12.42.56:308][ 76]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.09-12.42.56:308][ 76]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.09-12.42.56:310][ 76]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.09-12.42.56:343][ 76]LogAudioMixer: Display: Using Audio Hardware Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2023.11.09-12.42.56:344][ 76]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.09-12.42.56:344][ 76]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.09-12.42.56:344][ 76]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.09-12.42.56:344][ 76]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=40
+[2023.11.09-12.42.56:344][ 76]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=40
+[2023.11.09-12.42.56:346][ 76]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=40
+[2023.11.09-12.42.56:346][ 76]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=40
+[2023.11.09-12.42.56:346][ 76]LogInit: FAudioDevice initialized with ID 40.
+[2023.11.09-12.42.56:346][ 76]LogAudio: Display: Audio Device (ID: 40) registered with world 'mainmenumap'.
+[2023.11.09-12.42.56:346][ 76]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 40
+[2023.11.09-12.42.56:407][ 76]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.09-12.42.56:407][ 76]LogLoad: Game class is 'MenuGameMode_C'
+[2023.11.09-12.42.56:408][ 76]LogWorld: Bringing World /Game/_Developers/MarioGomez/UI/UEDPIE_0_mainmenumap.mainmenumap up for play (max tick rate 0) at 2023.11.09-06.42.56
+[2023.11.09-12.42.56:408][ 76]LogWorld: Bringing up level for play took: 0.000381
+[2023.11.09-12.42.56:409][ 76]LogOnline: OSS: Created online subsystem instance for: :Context_72
+[2023.11.09-12.42.56:411][ 76]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.09-12.42.56:411][ 76]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.11.09-12.42.56:416][ 76]PIE: Server logged in
+[2023.11.09-12.42.56:420][ 76]PIE: Play in editor total start time 0.148 seconds.
+[2023.11.09-12.42.56:449][ 76]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.42.56:449][ 76]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.42.56:450][ 76]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.42.56:450][ 76]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.42.56:452][ 76]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.42.56:453][ 76]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.42.56:453][ 76]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.42.56:454][ 76]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.42.56:454][ 76]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.42.56:454][ 76]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.42.56:455][ 76]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.42.56:455][ 76]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.42.56:459][ 76]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.11.09-12.42.57:722][154]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.11.09-12.42.57:723][154]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.11.09-12.42.57:724][154]LogNet: Browse: /Game/_Developers/EliasTrevino/NewMap
+[2023.11.09-12.42.57:724][154]LogLoad: LoadMap: /Game/_Developers/EliasTrevino/NewMap
+[2023.11.09-12.42.57:724][154]LogWorld: BeginTearingDown for /Game/_Developers/MarioGomez/UI/UEDPIE_0_mainmenumap
+[2023.11.09-12.42.57:726][154]LogWorld: UWorld::CleanupWorld for mainmenumap, bSessionEnded=true, bCleanupResources=true
+[2023.11.09-12.42.57:726][154]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.09-12.42.57:751][154]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.09-12.42.57:754][154]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2023.11.09-12.42.57:763][154]LogAudio: Display: Audio Device (ID: 40) registered with world 'NewMap'.
+[2023.11.09-12.42.57:763][154]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.09-12.42.57:764][154]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.09-12.42.57:764][154]LogAIModule: Creating AISystem for world NewMap
+[2023.11.09-12.42.57:764][154]LogPlayLevel: PIE: World Init took: (0.001149s)
+[2023.11.09-12.42.57:764][154]LogLoad: Game class is 'GM_JamBlueprint_C'
+[2023.11.09-12.42.57:773][154]LogWorld: Bringing World /Game/_Developers/EliasTrevino/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2023.11.09-06.42.57
+[2023.11.09-12.42.57:774][154]LogWorld: Bringing up level for play took: 0.009188
+[2023.11.09-12.42.57:778][154]LogLoad: Took 0.053204 seconds to LoadMap(/Game/_Developers/EliasTrevino/NewMap)
+[2023.11.09-12.42.57:795][154]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.42.57:795][154]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.42.57:796][154]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.42.57:797][154]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.42.57:797][154]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.42.57:798][154]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.42.57:798][154]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.42.57:799][154]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.42.57:799][154]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.42.57:800][154]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.42.57:800][154]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.42.57:801][154]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.42.57:802][154]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.42.57:802][154]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.42.57:803][154]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.42.57:804][154]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.42.57:804][154]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.42.57:805][154]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.42.57:805][154]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.42.57:806][154]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.42.57:806][154]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.42.57:807][154]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.42.57:808][154]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.42.57:808][154]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.42.57:809][154]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.42.57:809][154]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.43.01:106][354]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.09-12.43.01:106][354]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.11.09-12.43.04:526][574]LogNet: Browse: /Game/_Developers/MarioGomez/UI/mainmenumap
+[2023.11.09-12.43.04:526][574]LogLoad: LoadMap: /Game/_Developers/MarioGomez/UI/mainmenumap
+[2023.11.09-12.43.04:526][574]LogWorld: BeginTearingDown for /Game/_Developers/EliasTrevino/UEDPIE_0_NewMap
+[2023.11.09-12.43.04:526][574]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.09-12.43.04:526][574]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.09-12.43.04:552][574]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.09-12.43.04:554][574]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2023.11.09-12.43.04:557][574]LogPlayLevel: Creating play world package: /Game/_Developers/MarioGomez/UI/UEDPIE_0_mainmenumap
+[2023.11.09-12.43.04:558][574]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001098s)
+[2023.11.09-12.43.04:558][574]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Developers/MarioGomez/UI/mainmenumap.mainmenumap to /Game/_Developers/MarioGomez/UI/UEDPIE_0_mainmenumap.mainmenumap (0.001148s)
+[2023.11.09-12.43.04:558][574]LogAudio: Display: Audio Device (ID: 40) registered with world 'mainmenumap'.
+[2023.11.09-12.43.04:558][574]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.09-12.43.04:558][574]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.09-12.43.04:559][574]LogAIModule: Creating AISystem for world mainmenumap
+[2023.11.09-12.43.04:559][574]LogPlayLevel: PIE: World Init took: (0.000778s)
+[2023.11.09-12.43.04:559][574]LogLoad: Game class is 'MenuGameMode_C'
+[2023.11.09-12.43.04:559][574]LogWorld: Bringing World /Game/_Developers/MarioGomez/UI/UEDPIE_0_mainmenumap.mainmenumap up for play (max tick rate 0) at 2023.11.09-06.43.04
+[2023.11.09-12.43.04:559][574]LogWorld: Bringing up level for play took: 0.000290
+[2023.11.09-12.43.04:560][574]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.11.09-12.43.04:561][574]LogLoad: Took 0.035439 seconds to LoadMap(/Game/_Developers/MarioGomez/UI/UEDPIE_0_mainmenumap)
+[2023.11.09-12.43.04:571][574]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.43.04:571][574]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.43.04:572][574]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.43.04:572][574]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.43.04:572][574]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.43.04:573][574]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.43.04:573][574]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.43.04:574][574]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.43.04:575][574]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.43.04:576][574]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.43.04:576][574]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.43.08:425][850]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.09-12.43.08:425][850]LogWorld: BeginTearingDown for /Game/_Developers/MarioGomez/UI/UEDPIE_0_mainmenumap
+[2023.11.09-12.43.08:426][850]LogSlate: Window 'PROJ_BrayanJamTeam2 Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.11.09-12.43.08:433][850]LogWorld: UWorld::CleanupWorld for mainmenumap, bSessionEnded=true, bCleanupResources=true
+[2023.11.09-12.43.08:433][850]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.09-12.43.08:436][850]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.09-12.43.08:442][850]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.09-12.43.08:466][850]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.09-12.43.08:466][850]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 40
+[2023.11.09-12.43.08:466][850]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40
+[2023.11.09-12.43.08:469][850]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40
+[2023.11.09-12.43.08:477][850]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2023.11.09-12.43.08:495][850]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.09-12.43.08:507][851]LogPlayLevel: Display: Destroying online subsystem :Context_72
+[2023.11.09-12.44.05:195][873]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2023.11.09-12.44.05:206][873]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2023.11.09-12.44.05:215][873]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2023.11.09-12.44.05:232][874]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2023.11.09-12.44.09:323][317]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> Time
+[2023.11.09-12.44.09:339][317]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2023.11.09-12.44.11:026][490]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/_Developers/MarioGomez/UI/Time.Time
+[2023.11.09-12.44.11:027][490]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.09-12.44.11:027][490]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.09-12.44.11:042][490]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.09-12.44.11:042][490]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.09-12.46.39:984][976]LogSlate: Took 0.005603 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2023.11.09-12.48.14:274][454]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2023.11.09-12.48.14:276][454]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/_Developers/MarioGomez/UI/mainmenumap' took 0.043
+[2023.11.09-12.48.14:276][454]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Developers/MarioGomez/UI/Time] ([2] browsable assets)...
+[2023.11.09-12.48.14:279][454]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/_Developers/MarioGomez/UI/Time.Time]
+[2023.11.09-12.48.14:279][454]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Developers/MarioGomez/UI/Time]
+[2023.11.09-12.48.14:286][454]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Developers/MarioGomez/UI/Time_Auto4
+[2023.11.09-12.48.14:286][454]LogSavePackage: Moving 'C:/Github/UNREAL/5.2/Tecnicas Texturizado/REPO_BryanJamTeam2/PROJ_BrayanJamTeam2/Saved/Time_Auto4936E30BF4ADA386A3C9F7C8C4D861913.tmp' to 'C:/Github/UNREAL/5.2/Tecnicas Texturizado/REPO_BryanJamTeam2/PROJ_BrayanJamTeam2/Saved/Autosaves/Game/_Developers/MarioGomez/UI/Time_Auto4.uasset'
+[2023.11.09-12.48.14:288][454]LogFileHelpers: Auto-saving content packages took 0.011
+[2023.11.09-12.53.22:017][941]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.09-12.53.22:080][941]LogSavePackage: Moving output files for package: /Game/_Developers/MarioGomez/UI/Time
+[2023.11.09-12.53.22:081][941]LogSavePackage: Moving 'C:/Github/UNREAL/5.2/Tecnicas Texturizado/REPO_BryanJamTeam2/PROJ_BrayanJamTeam2/Saved/TimeADB46941492973E3B051AB88B12835EF.tmp' to 'C:/Github/UNREAL/5.2/Tecnicas Texturizado/REPO_BryanJamTeam2/PROJ_BrayanJamTeam2/Content/_Developers/MarioGomez/UI/Time.uasset'
+[2023.11.09-12.53.22:096][941]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 3.62 sec)
+[2023.11.09-12.53.22:109][941]AssetCheck: New page: Asset Save: Time
+[2023.11.09-12.53.22:109][941]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/_Developers/MarioGomez/UI/Time.Time
+[2023.11.09-12.53.33:979][399]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.09-12.53.34:066][399]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2023.11.09-12.53.34:073][399]LogSavePackage: Moving output files for package: /Game/_Developers/MarioGomez/UI/mainmenumap
+[2023.11.09-12.53.34:074][399]LogSavePackage: Moving 'C:/Github/UNREAL/5.2/Tecnicas Texturizado/REPO_BryanJamTeam2/PROJ_BrayanJamTeam2/Saved/mainmenumap8AAA242B4B8E23D4FC600FBDC7737B67.tmp' to 'C:/Github/UNREAL/5.2/Tecnicas Texturizado/REPO_BryanJamTeam2/PROJ_BrayanJamTeam2/Content/_Developers/MarioGomez/UI/mainmenumap.umap'
+[2023.11.09-12.53.34:080][399]LogFileHelpers: Saving map 'mainmenumap' took 0.042
+[2023.11.09-12.53.34:092][399]LogFileHelpers: InternalPromptForCheckoutAndSave took 112 ms (total: 3.73 sec)
+[2023.11.09-12.53.34:099][399]AssetCheck: New page: Asset Save: mainmenumap
+[2023.11.09-12.53.34:099][399]LogContentValidation: Display: Validating /Script/Engine.World /Game/_Developers/MarioGomez/UI/mainmenumap.mainmenumap
+[2023.11.09-12.53.35:668][577]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.09-12.53.35:743][577]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2023.11.09-12.53.35:749][577]LogSavePackage: Moving output files for package: /Game/_Developers/MarioGomez/UI/mainmenumap
+[2023.11.09-12.53.35:750][577]LogSavePackage: Moving 'C:/Github/UNREAL/5.2/Tecnicas Texturizado/REPO_BryanJamTeam2/PROJ_BrayanJamTeam2/Saved/mainmenumapE063B9D448D1EC8E59C8879C2D0DEBB7.tmp' to 'C:/Github/UNREAL/5.2/Tecnicas Texturizado/REPO_BryanJamTeam2/PROJ_BrayanJamTeam2/Content/_Developers/MarioGomez/UI/mainmenumap.umap'
+[2023.11.09-12.53.35:756][577]LogFileHelpers: Saving map 'mainmenumap' took 0.040
+[2023.11.09-12.53.35:769][577]LogFileHelpers: InternalPromptForCheckoutAndSave took 100 ms (total: 3.83 sec)
+[2023.11.09-12.53.35:776][577]AssetCheck: New page: Asset Save: mainmenumap
+[2023.11.09-12.53.35:776][577]LogContentValidation: Display: Validating /Script/Engine.World /Game/_Developers/MarioGomez/UI/mainmenumap.mainmenumap
+[2023.11.09-12.53.42:057][175]BlueprintLog: New page: Compile Time
+[2023.11.09-12.53.42:093][175]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2023.11.09-12.54.58:266][464]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_Developers/EduardoCamarena/BP_EduardoCharacterTest.BP_EduardoCharacterTest
+[2023.11.09-12.54.58:266][464]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.09-12.54.58:267][464]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.09-12.56.44:993][760]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2023.11.09-12.56.45:006][760]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2023.11.09-12.56.45:015][760]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2023.11.09-12.56.45:030][761]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2023.11.09-12.57.08:633][181]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> InGameHUD
+[2023.11.09-12.57.08:650][181]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2023.11.09-12.57.43:624][586]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.11.09-12.57.43:649][586]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.11.09-12.57.43:683][586]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.11.09-12.57.43:705][587]LogAutomationController: Ignoring very large delta of 9.92 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.11.09-12.57.43:740][587]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.11.09-12.57.53:547][703]LogContentBrowser: Attempting asset rename: NewBlueprint -> NewBlueprint
+[2023.11.09-12.57.53:548][703]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.11.09-12.57.55:544][912]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2023.11.09-12.57.57:752][912]LogSlate: Window 'Delete Assets' being destroyed
+[2023.11.09-12.57.57:796][912]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2023.11.09-12.57.57:824][912]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2023.11.09-12.57.57:851][912]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2023.11.09-12.57.58:017][913]LogAutomationController: Ignoring very large delta of 2.51 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.11.09-12.58.07:458][291]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.11.09-12.58.07:477][291]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.11.09-12.58.07:487][291]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.11.09-12.58.07:489][292]LogAutomationController: Ignoring very large delta of 5.33 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.11.09-12.58.07:498][292]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.11.09-12.58.14:382][ 50]LogContentBrowser: Attempting asset rename: NewBlueprint -> InGameHUD
+[2023.11.09-12.58.14:391][ 50]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.11.09-12.58.29:977][320]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2023.11.09-12.58.30:023][320]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2023.11.09-12.58.30:032][320]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2023.11.09-12.58.30:034][321]LogAutomationController: Ignoring very large delta of 2.22 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.11.09-12.58.30:044][321]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2023.11.09-12.58.37:977][523]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> NewWidgetBlueprint
+[2023.11.09-12.58.37:986][523]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2023.11.09-12.58.45:174][274]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> PlayerInGameHUD
+[2023.11.09-12.58.45:249][274]LogMetaData: Removing '/Game/_Developers/MarioGomez/UI/PlayerInGameHUD.SKEL_PlayerInGameHUD_C' ref from Metadata '/Game/_Developers/MarioGomez/UI/NewWidgetBlueprint.PackageMetaData'
+[2023.11.09-12.58.45:249][274]LogMetaData: Removing '/Game/_Developers/MarioGomez/UI/PlayerInGameHUD.PlayerInGameHUD_C' ref from Metadata '/Game/_Developers/MarioGomez/UI/NewWidgetBlueprint.PackageMetaData'
+[2023.11.09-12.58.45:249][274]LogMetaData: Removing '/Game/_Developers/MarioGomez/UI/PlayerInGameHUD.PlayerInGameHUD:EventGraph.K2Node_Event_0' ref from Metadata '/Game/_Developers/MarioGomez/UI/NewWidgetBlueprint.PackageMetaData'
+[2023.11.09-12.58.45:249][274]LogMetaData: Removing '/Game/_Developers/MarioGomez/UI/PlayerInGameHUD.PlayerInGameHUD:EventGraph.K2Node_Event_1' ref from Metadata '/Game/_Developers/MarioGomez/UI/NewWidgetBlueprint.PackageMetaData'
+[2023.11.09-12.58.45:249][274]LogMetaData: Removing '/Game/_Developers/MarioGomez/UI/PlayerInGameHUD.PlayerInGameHUD:EventGraph.K2Node_Event_2' ref from Metadata '/Game/_Developers/MarioGomez/UI/NewWidgetBlueprint.PackageMetaData'
+[2023.11.09-12.58.45:251][274]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.09-12.58.45:329][274]LogSavePackage: Moving output files for package: /Game/_Developers/MarioGomez/UI/PlayerInGameHUD
+[2023.11.09-12.58.45:329][274]LogSavePackage: Moving 'C:/Github/UNREAL/5.2/Tecnicas Texturizado/REPO_BryanJamTeam2/PROJ_BrayanJamTeam2/Saved/PlayerInGameHUD153A93954682E7977D33B4B6F2B0C660.tmp' to 'C:/Github/UNREAL/5.2/Tecnicas Texturizado/REPO_BryanJamTeam2/PROJ_BrayanJamTeam2/Content/_Developers/MarioGomez/UI/PlayerInGameHUD.uasset'
+[2023.11.09-12.58.45:351][274]LogFileHelpers: InternalPromptForCheckoutAndSave took 100 ms (total: 3.93 sec)
+[2023.11.09-12.58.45:392][274]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2023.11.09-12.58.45:420][274]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2023.11.09-12.58.45:446][274]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2023.11.09-12.58.45:454][274]AssetCheck: New page: Asset Save: PlayerInGameHUD
+[2023.11.09-12.58.45:454][274]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/_Developers/MarioGomez/UI/PlayerInGameHUD.PlayerInGameHUD
+[2023.11.09-12.59.11:317][495]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_Developers/MarioGomez/UI/InGameHUD.InGameHUD
+[2023.11.09-12.59.11:318][495]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.09-12.59.11:318][495]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.09-12.59.11:527][495]LogViewport: Scene viewport resized to 1141x685, mode Windowed.
+[2023.11.09-13.01.18:381][931]BlueprintLog: New page: Compile InGameHUD
+[2023.11.09-13.01.18:442][931]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2023.11.09-13.01.20:036][  7]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.09-13.01.20:094][  7]LogSavePackage: Moving output files for package: /Game/_Developers/MarioGomez/UI/InGameHUD
+[2023.11.09-13.01.20:094][  7]LogSavePackage: Moving 'C:/Github/UNREAL/5.2/Tecnicas Texturizado/REPO_BryanJamTeam2/PROJ_BrayanJamTeam2/Saved/InGameHUDB251ACD04571CDF63DB681B182A1D70B.tmp' to 'C:/Github/UNREAL/5.2/Tecnicas Texturizado/REPO_BryanJamTeam2/PROJ_BrayanJamTeam2/Content/_Developers/MarioGomez/UI/InGameHUD.uasset'
+[2023.11.09-13.01.20:110][  7]LogFileHelpers: InternalPromptForCheckoutAndSave took 74 ms (total: 4.01 sec)
+[2023.11.09-13.01.20:119][  7]AssetCheck: New page: Asset Save: InGameHUD
+[2023.11.09-13.01.20:119][  7]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/_Developers/MarioGomez/UI/InGameHUD.InGameHUD
+[2023.11.09-13.02.15:168][382]LogWorld: UWorld::CleanupWorld for World_57, bSessionEnded=true, bCleanupResources=true
+[2023.11.09-13.02.15:168][382]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.09-13.02.29:168][656]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/_Developers/MarioGomez/UI/PlayerInGameHUD.PlayerInGameHUD
+[2023.11.09-13.02.29:168][656]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.09-13.02.29:168][656]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.09-13.02.29:175][656]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.09-13.02.29:175][656]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.09-13.02.50:799][932]LogDerivedDataCache: C:/Users/mario/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.246 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1530 files in 2453 folders with total size 201 MiB.
+[2023.11.09-13.03.30:980][325]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.09-13.03.31:038][325]LogSavePackage: Moving output files for package: /Game/_Developers/MarioGomez/UI/PlayerInGameHUD
+[2023.11.09-13.03.31:039][325]LogSavePackage: Moving 'C:/Github/UNREAL/5.2/Tecnicas Texturizado/REPO_BryanJamTeam2/PROJ_BrayanJamTeam2/Saved/PlayerInGameHUD9F781A0A45AE2CE93D6EACBCEE180AED.tmp' to 'C:/Github/UNREAL/5.2/Tecnicas Texturizado/REPO_BryanJamTeam2/PROJ_BrayanJamTeam2/Content/_Developers/MarioGomez/UI/PlayerInGameHUD.uasset'
+[2023.11.09-13.03.31:050][325]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 4.08 sec)
+[2023.11.09-13.03.31:060][325]AssetCheck: New page: Asset Save: PlayerInGameHUD
+[2023.11.09-13.03.31:060][325]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/_Developers/MarioGomez/UI/PlayerInGameHUD.PlayerInGameHUD
