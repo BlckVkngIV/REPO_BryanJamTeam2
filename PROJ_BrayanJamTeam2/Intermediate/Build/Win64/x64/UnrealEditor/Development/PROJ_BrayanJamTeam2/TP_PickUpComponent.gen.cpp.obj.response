@@ -1,7 +1,7 @@
-G:\GitHub\REPO_BryanJamTeam2\PROJ_BrayanJamTeam2\Intermediate\Build\Win64\UnrealEditor\Inc\PROJ_BrayanJamTeam2\UHT\TP_PickUpComponent.gen.cpp
+C:\Users\Luis\Documents\GitHub\REPO_BryanJamTeam2\PROJ_BrayanJamTeam2\Intermediate\Build\Win64\UnrealEditor\Inc\PROJ_BrayanJamTeam2\UHT\TP_PickUpComponent.gen.cpp
 /I .
-/I G:\GitHub\REPO_BryanJamTeam2\PROJ_BrayanJamTeam2\Intermediate\Build\Win64\UnrealEditor\Inc\PROJ_BrayanJamTeam2\UHT
-/I G:\GitHub\REPO_BryanJamTeam2\PROJ_BrayanJamTeam2\Source
+/I C:\Users\Luis\Documents\GitHub\REPO_BryanJamTeam2\PROJ_BrayanJamTeam2\Intermediate\Build\Win64\UnrealEditor\Inc\PROJ_BrayanJamTeam2\UHT
+/I C:\Users\Luis\Documents\GitHub\REPO_BryanJamTeam2\PROJ_BrayanJamTeam2\Source
 /I Runtime\TraceLog\Public
 /I Runtime\Core\Public
 /I Runtime
@@ -281,20 +281,21 @@ G:\GitHub\REPO_BryanJamTeam2\PROJ_BrayanJamTeam2\Intermediate\Build\Win64\Unreal
 /I ..\Plugins\EnhancedInput\Intermediate\Build\Win64\UnrealEditor\Inc\EnhancedInput\UHT
 /I ..\Plugins\EnhancedInput\Source\EnhancedInput\Public
 /I ..\Plugins\EnhancedInput\Source
-/I ThirdParty\mimalloc\include
-/I ThirdParty\LibTiff\Source\Win64
-/I ThirdParty\LibTiff\Source
-/I "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
-/FI"G:\GitHub\REPO_BryanJamTeam2\PROJ_BrayanJamTeam2\Intermediate\Build\Win64\x64\PROJ_BrayanJamTeam2Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h"
-/FI"G:\GitHub\REPO_BryanJamTeam2\PROJ_BrayanJamTeam2\Intermediate\Build\Win64\x64\UnrealEditor\Development\PROJ_BrayanJamTeam2\Definitions.PROJ_BrayanJamTeam2.h"
-/Yu"G:\GitHub\REPO_BryanJamTeam2\PROJ_BrayanJamTeam2\Intermediate\Build\Win64\x64\PROJ_BrayanJamTeam2Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h"
-/Fp"G:\GitHub\REPO_BryanJamTeam2\PROJ_BrayanJamTeam2\Intermediate\Build\Win64\x64\PROJ_BrayanJamTeam2Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h.pch"
-/Fo"G:\GitHub\REPO_BryanJamTeam2\PROJ_BrayanJamTeam2\Intermediate\Build\Win64\x64\UnrealEditor\Development\PROJ_BrayanJamTeam2\TP_PickUpComponent.gen.cpp.obj"
-/sourceDependencies G:\GitHub\REPO_BryanJamTeam2\PROJ_BrayanJamTeam2\Intermediate\Build\Win64\x64\UnrealEditor\Development\PROJ_BrayanJamTeam2\TP_PickUpComponent.gen.cpp.dep.json
+/external:W0
+/external:I ThirdParty\mimalloc\include
+/external:I ThirdParty\LibTiff\Source\Win64
+/external:I ThirdParty\LibTiff\Source
+/external:I "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\INCLUDE"
+/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"
+/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
+/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
+/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
+/FI"C:\Users\Luis\Documents\GitHub\REPO_BryanJamTeam2\PROJ_BrayanJamTeam2\Intermediate\Build\Win64\x64\PROJ_BrayanJamTeam2Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h"
+/FI"C:\Users\Luis\Documents\GitHub\REPO_BryanJamTeam2\PROJ_BrayanJamTeam2\Intermediate\Build\Win64\x64\UnrealEditor\Development\PROJ_BrayanJamTeam2\Definitions.PROJ_BrayanJamTeam2.h"
+/Yu"C:\Users\Luis\Documents\GitHub\REPO_BryanJamTeam2\PROJ_BrayanJamTeam2\Intermediate\Build\Win64\x64\PROJ_BrayanJamTeam2Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h"
+/Fp"C:\Users\Luis\Documents\GitHub\REPO_BryanJamTeam2\PROJ_BrayanJamTeam2\Intermediate\Build\Win64\x64\PROJ_BrayanJamTeam2Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h.pch"
+/Fo"C:\Users\Luis\Documents\GitHub\REPO_BryanJamTeam2\PROJ_BrayanJamTeam2\Intermediate\Build\Win64\x64\UnrealEditor\Development\PROJ_BrayanJamTeam2\TP_PickUpComponent.gen.cpp.obj"
+/sourceDependencies C:\Users\Luis\Documents\GitHub\REPO_BryanJamTeam2\PROJ_BrayanJamTeam2\Intermediate\Build\Win64\x64\UnrealEditor\Development\PROJ_BrayanJamTeam2\TP_PickUpComponent.gen.cpp.dep.json
 /Zc:inline
 /nologo
 /Oi
