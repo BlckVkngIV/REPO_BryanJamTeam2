@@ -50,3 +50,22 @@ Proyecto de Unreal Engine 5.2.1 de la BryanJam
 - Se crearon funciones de respawn dentro del jugador.
 - Se creó 'BP_KillTrigger' para colocar bajo el nivel y respawnear al jugador al caer.
    (KillVolumeZ y WorldSettings/KillZ no activaban la función de respawn)
+
+
+# 0.0.5 / MiguelRuiz
+-##*Parkour Movement*
+ -*Apartir de un Actor Component*
+ -###*Funciones Añadidas*
+  -*WallRunUpdate*
+  -*WallRunMovement*
+  -*WallRunEnd*
+  -*SupressWallRun*
+  -*CamaraTick*
+  -*CameraTilt*
+  -*WallRunJump*
+ -###*Macros Añadidos*
+  -WallRunEndVectors
+  -ValidWallRunVectors?
+  -PlayerToWallVector
+
+  
