@@ -1,6 +1,0 @@
-﻿  Using bundled DotNet SDK version: 6.0.302
-  Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" PROJ_BrayanJamTeam2Editor Win64 Development -Project="C:\Users\PC\Documents\Unreal Projects\REPO_BryanJamTeam2\PROJ_BrayanJamTeam2\PROJ_BrayanJamTeam2.uproject" -WaitMutex -FromMsBuild
-  Log file: C:\Users\PC\AppData\Local\UnrealBuildTool\Log.txt
-  Using 'git status' to determine working set for adaptive non-unity build (C:\Users\PC\Documents\Unreal Projects\REPO_BryanJamTeam2).
-  Target is up to date
-  Total execution time: 10.66 seconds
