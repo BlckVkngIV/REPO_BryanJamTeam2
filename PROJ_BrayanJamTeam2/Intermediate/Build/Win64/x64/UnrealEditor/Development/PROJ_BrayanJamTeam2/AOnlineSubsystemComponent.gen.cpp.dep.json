@@ -1,0 +1,24 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\pc\\documents\\unreal projects\\repo_bryanjamteam2\\proj_brayanjamteam2\\intermediate\\build\\win64\\unrealeditor\\inc\\proj_brayanjamteam2\\uht\\aonlinesubsystemcomponent.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\pc\\documents\\unreal projects\\repo_bryanjamteam2\\proj_brayanjamteam2\\intermediate\\build\\win64\\x64\\proj_brayanjamteam2editor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_1.h.pch",
+        "Includes": [
+            "c:\\users\\pc\\documents\\unreal projects\\repo_bryanjamteam2\\proj_brayanjamteam2\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\proj_brayanjamteam2\\definitions.proj_brayanjamteam2.h",
+            "c:\\users\\pc\\documents\\unreal projects\\repo_bryanjamteam2\\proj_brayanjamteam2\\source\\proj_brayanjamteam2\\aonlinesubsystemcomponent.h",
+            "d:\\unreal\\ue_5.2\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\interfaces\\onlinesessioninterface.h",
+            "d:\\unreal\\ue_5.2\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlinesubsystemtypes.h",
+            "d:\\unreal\\ue_5.2\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlinesubsystemnames.h",
+            "d:\\unreal\\ue_5.2\\engine\\plugins\\online\\onlinebase\\source\\public\\online\\onlinebase.h",
+            "d:\\unreal\\ue_5.2\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlinesubsystempackage.h",
+            "d:\\unreal\\ue_5.2\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlinedelegatemacros.h",
+            "d:\\unreal\\ue_5.2\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\interfaces\\onlinesessiondelegates.h",
+            "d:\\unreal\\ue_5.2\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlinekeyvaluepair.h",
+            "d:\\unreal\\ue_5.2\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlinesubsystempackage.h",
+            "c:\\users\\pc\\documents\\unreal projects\\repo_bryanjamteam2\\proj_brayanjamteam2\\intermediate\\build\\win64\\unrealeditor\\inc\\proj_brayanjamteam2\\uht\\aonlinesubsystemcomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
