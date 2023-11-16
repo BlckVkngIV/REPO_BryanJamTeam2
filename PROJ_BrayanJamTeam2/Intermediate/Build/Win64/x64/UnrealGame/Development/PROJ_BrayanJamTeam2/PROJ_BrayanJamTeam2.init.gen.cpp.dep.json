@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\pc\\documents\\unreal projects\\repo_bryanjamteam2\\proj_brayanjamteam2\\intermediate\\build\\win64\\unrealgame\\inc\\proj_brayanjamteam2\\uht\\proj_brayanjamteam2.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\pc\\documents\\unreal projects\\repo_bryanjamteam2\\proj_brayanjamteam2\\intermediate\\build\\win64\\x64\\proj_brayanjamteam2\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_1.h.pch",
+        "Includes": [
+            "c:\\users\\pc\\documents\\unreal projects\\repo_bryanjamteam2\\proj_brayanjamteam2\\intermediate\\build\\win64\\x64\\unrealgame\\development\\proj_brayanjamteam2\\definitions.proj_brayanjamteam2.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
