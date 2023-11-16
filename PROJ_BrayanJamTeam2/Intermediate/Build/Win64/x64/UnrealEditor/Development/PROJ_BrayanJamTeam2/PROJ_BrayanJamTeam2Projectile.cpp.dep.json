@@ -1,21 +1,21 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\users\\pc\\documents\\unreal projects\\repo_bryanjamteam2\\proj_brayanjamteam2\\source\\proj_brayanjamteam2\\proj_brayanjamteam2projectile.cpp",
+        "Source": "c:\\users\\luis\\documents\\github\\repo_bryanjamteam2\\proj_brayanjamteam2\\source\\proj_brayanjamteam2\\proj_brayanjamteam2projectile.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\users\\pc\\documents\\unreal projects\\repo_bryanjamteam2\\proj_brayanjamteam2\\intermediate\\build\\win64\\x64\\proj_brayanjamteam2editor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_1.h.pch",
+        "PCH": "c:\\users\\luis\\documents\\github\\repo_bryanjamteam2\\proj_brayanjamteam2\\intermediate\\build\\win64\\x64\\proj_brayanjamteam2editor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_1.h.pch",
         "Includes": [
-            "c:\\users\\pc\\documents\\unreal projects\\repo_bryanjamteam2\\proj_brayanjamteam2\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\proj_brayanjamteam2\\definitions.proj_brayanjamteam2.h",
-            "c:\\users\\pc\\documents\\unreal projects\\repo_bryanjamteam2\\proj_brayanjamteam2\\source\\proj_brayanjamteam2\\proj_brayanjamteam2projectile.h",
-            "c:\\users\\pc\\documents\\unreal projects\\repo_bryanjamteam2\\proj_brayanjamteam2\\intermediate\\build\\win64\\unrealeditor\\inc\\proj_brayanjamteam2\\uht\\proj_brayanjamteam2projectile.generated.h",
-            "d:\\unreal\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\gameframework\\projectilemovementcomponent.h",
-            "d:\\unreal\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\gameframework\\movementcomponent.h",
-            "d:\\unreal\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\movementcomponent.generated.h",
-            "d:\\unreal\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\projectilemovementcomponent.generated.h",
-            "d:\\unreal\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\components\\spherecomponent.h",
-            "d:\\unreal\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
-            "d:\\unreal\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\shapecomponent.generated.h",
-            "d:\\unreal\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\spherecomponent.generated.h"
+            "c:\\users\\luis\\documents\\github\\repo_bryanjamteam2\\proj_brayanjamteam2\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\proj_brayanjamteam2\\definitions.proj_brayanjamteam2.h",
+            "c:\\users\\luis\\documents\\github\\repo_bryanjamteam2\\proj_brayanjamteam2\\source\\proj_brayanjamteam2\\proj_brayanjamteam2projectile.h",
+            "c:\\users\\luis\\documents\\github\\repo_bryanjamteam2\\proj_brayanjamteam2\\intermediate\\build\\win64\\unrealeditor\\inc\\proj_brayanjamteam2\\uht\\proj_brayanjamteam2projectile.generated.h",
+            "c:\\program files\\epic games\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\gameframework\\projectilemovementcomponent.h",
+            "c:\\program files\\epic games\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\gameframework\\movementcomponent.h",
+            "c:\\program files\\epic games\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\movementcomponent.generated.h",
+            "c:\\program files\\epic games\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\projectilemovementcomponent.generated.h",
+            "c:\\program files\\epic games\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\components\\spherecomponent.h",
+            "c:\\program files\\epic games\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
+            "c:\\program files\\epic games\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\shapecomponent.generated.h",
+            "c:\\program files\\epic games\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\spherecomponent.generated.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
