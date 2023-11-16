@@ -90,3 +90,4 @@ Plugins/*/RiderLink/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+*.log
