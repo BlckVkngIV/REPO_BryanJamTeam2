@@ -15,16 +15,7 @@
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
-    <None Include="..\..\Config\DefaultEditor.ini">
-      <Filter>Config</Filter>
-    </None>
-    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
-      <Filter>Config</Filter>
-    </None>
     <None Include="..\..\Config\DefaultEngine.ini">
-      <Filter>Config</Filter>
-    </None>
-    <None Include="..\..\Config\DefaultGame.ini">
       <Filter>Config</Filter>
     </None>
     <None Include="..\..\Config\DefaultInput.ini">
@@ -83,6 +74,18 @@
     </ClCompile>
     <ClInclude Include="..\..\Source\PROJ_BrayanJamTeam2\TP_WeaponComponent.h">
       <Filter>Source\PROJ_BrayanJamTeam2</Filter>
+    </ClInclude>
+    <Filter Include="Source\PROJ_BrayanJamTeam2\Private">
+      <UniqueIdentifier>{6B000D41-E59C-33DD-B6B6-A26EDD7DF273}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\PROJ_BrayanJamTeam2\Private\AOnlineSubsystemComponent.cpp">
+      <Filter>Source\PROJ_BrayanJamTeam2\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\PROJ_BrayanJamTeam2\Public">
+      <UniqueIdentifier>{B588A4FF-4D47-398E-BF32-A89484E194A3}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\PROJ_BrayanJamTeam2\Public\AOnlineSubsystemComponent.h">
+      <Filter>Source\PROJ_BrayanJamTeam2\Public</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
